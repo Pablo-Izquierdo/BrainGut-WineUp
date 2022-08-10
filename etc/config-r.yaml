@@ -111,7 +111,7 @@ training:
           Initial learning rate.
 
   batch_size:
-    value: 16
+    value: 2
     type: "int"
     range: [1, 64]
     help: >
@@ -119,7 +119,7 @@ training:
           your batchsize so that the model still fits in the GPU. (It was set by Ignacio to 16)
 
   epochs:
-    value: 50
+    value: 30
     type: "int"
     range: [0, None]
     help: >
@@ -175,7 +175,7 @@ training:
           Whether to use or not validation. If True you have to provide a `val.txt` file in the `splits` directory.
 
   use_early_stopping:
-    value: False
+    value: True
     type: "bool"
     help: >
           Whether to use or not early stopping. If True you have to provide a `val.txt` file in the `splits` directory.

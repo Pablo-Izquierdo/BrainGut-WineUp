@@ -12,7 +12,7 @@ import json
 
 import numpy as np
 from tensorflow import keras
-from tensorflow.keras import applications
+from tensorflow.keras import applications ## Keras Applications are premade architectures with pre-trained weights.
 from tensorflow.keras import regularizers
 from tensorflow.keras import backend as K
 from tensorflow.keras.models import load_model, Model
@@ -20,6 +20,7 @@ from tensorflow.python.saved_model import builder as saved_model_builder
 from tensorflow.python.saved_model.signature_def_utils import predict_signature_def
 from tensorflow.python.saved_model import tag_constants
 from tensorflow.keras.layers import Dense, GlobalAveragePooling2D, Flatten
+from imgclas.optimizers import customAdam
 
 from imgclas import paths, config, utils
 
@@ -37,12 +38,20 @@ def create_model(CONF):
     CONF : dict
         Contains relevant configuration parameters of the model
     """
-    architecture = getattr(applications, CONF['model']['modelname'])
+    ## architecture = getattr(applications, CONF['model']['modelname'])
+    model_path = '/srv/image-classification-tf/models/2021-11-03_Lab_All_CopasVasos_All_reg/ckpts/final_model.h5'
 
     # create the base pre-trained model
-    img_width, img_height = CONF['model']['image_size'], CONF['model']['image_size']
-    base_model = architecture(weights='imagenet', include_top=False, input_shape=(img_width, img_height, 3))
-
+    ## img_width, img_height = CONF['model']['image_size'], CONF['model']['image_size']
+    ## base_model = architecture(weights='imagenet', include_top=False, input_shape=(img_width, img_height, 3))
+#     base_model = keras.load_model(h5)
+#     ## cargar el modelo y borrar las ultimas capas
+#     base_model=base_model.layers.pop()
+#     base_model=base_model.layers.pop()
+    ## model1=model.load_weights(weights)
+    # load model
+    model1 = load_model(model_path, custom_objects={'customAdam': customAdam})
+    base_model= Model(inputs=model1.input, outputs=model1.layers[-4].output)
     # Add custom layers at the top to adapt it to our problem
     x = base_model.output
     x = GlobalAveragePooling2D()(x)
@@ -136,7 +145,7 @@ def save_default_imagenet_model():
     Create a model in models_dir with default ImageNet training
     """
     CONF = config.get_conf_dict()
-    TIMESTAMP = 'default_imagenet'
+    TIMESTAMP = '2021-11-03_Lab_All_CopasVasos_All_reg' ## aqui 'default_imagenet'
 
     # Clear default conf and create custom conf
     for k, v in CONF.items():
@@ -150,21 +159,21 @@ def save_default_imagenet_model():
     CONF['model']['image_size'] = 224
     CONF['model']['preprocess_mode'] = model_modes[CONF['model']['modelname']]
 #     CONF['model']['num_classes'] = 1000 ###
-    CONF['dataset']['mean_RGB'] = [123.675, 116.28, 103.53]
-    CONF['dataset']['sftd_RGB'] = [58.395, 57.12, 57.375]
+    CONF['dataset']['mean_RGB'] = [144.805, 148.566, 156.396] ## aqui [123.675, 116.28, 103.53]
+    CONF['dataset']['sftd_RGB'] = [40.179, 40.841, 41.477] ## aqui [58.395, 57.12, 57.375]
 
     paths.timestamp = TIMESTAMP
     paths.CONF = CONF
 
-    # Create classes.txt for ImageNet
-    fpath = keras.utils.get_file(
-        'imagenet_class_index.json',
-        'https://s3.amazonaws.com/deep-learning-models/image-models/imagenet_class_index.json',
-        cache_subdir='models',
-        file_hash='c2c37ea517e94d9795004a39431a14cb')
-    with open(fpath) as f:
-        classes = json.load(f)
-    classes = np.array(list(classes.values()))[:, 1]
+    # Create classes.txt for ImageNet ## comentar todo
+#     fpath = keras.utils.get_file(
+#         'imagenet_class_index.json',
+#         'https://s3.amazonaws.com/deep-learning-models/image-models/imagenet_class_index.json',
+#         cache_subdir='models',
+#         file_hash='c2c37ea517e94d9795004a39431a14cb')
+#     with open(fpath) as f:
+#         classes = json.load(f)
+#     classes = np.array(list(classes.values()))[:, 1]
 
     # Create the model
     architecture = getattr(applications, CONF['model']['modelname'])
@@ -175,7 +184,7 @@ def save_default_imagenet_model():
 
     # Save everything
     utils.create_dir_tree()
-    np.savetxt(os.path.join(paths.get_ts_splits_dir(), 'classes.txt'), classes, fmt='%s', delimiter='/n')
+#     np.savetxt(os.path.join(paths.get_ts_splits_dir(), 'classes.txt'), classes, fmt='%s', delimiter='/n') ##
     save_conf(CONF)
     model.save(fpath=os.path.join(paths.get_checkpoints_dir(), 'final_model.h5'),
                include_optimizer=False)
