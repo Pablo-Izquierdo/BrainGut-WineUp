@@ -1,4 +1,3 @@
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Chardonnay/Rea_Rio_R_Char_125_nd_nd_fr43_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Chardonnay/Rea_Rio_R_Char_125_nd_nd_fr44_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Chardonnay/Rea_Rio_R_Char_150_nd_nd_fr42_nd_nd_ar1.jpg*150
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Chardonnay/Rea_Rio_R_Char_125_nd_nd_fr44_nd_nd_ar1.jpg*125
@@ -58,7 +57,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Chardonnay/Rea_Rio_R_Char_100_nd_nd_fr44_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chato/Rea_Rio_R_Chato_75_nd_nd_fr41_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chato/Rea_Rio_R_Chato_125_nd_nd_fr40_nd_nd_ar2.jpg*125
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Chato/Rea_Rio_R_Chato_100_nd_nd_fr40_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chato/Rea_Rio_R_Chato_75_nd_nd_fr44_nd_nd_ar2.jpeg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chato/Rea_Rio_R_Chato_100_nd_nd_fr42_nd_nd_ar2.jpeg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chato/Rea_Rio_R_Chato_100_nd_nd_fr43_nd_nd_ar1.jpeg*100
@@ -122,8 +120,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_150_nd_nd_fr42_nd_nd_ar2.jpeg*150
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_100_nd_nd_fr46_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_50_nd_nd_fr42_nd_nd_ar2.jpeg*50
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_75_nd_nd_fr43_nd_nd_ar1.jpeg*75
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_200_nd_nd_fr40_nd_nd_ar2.jpeg*200
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_50_nd_nd_fr42_nd_nd_ar1.jpeg*50
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_200_nd_nd_fr40_nd_nd_ar1.jpeg*200
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_50_nd_nd_fr41_nd_nd_ar1.jpeg*50
@@ -256,7 +252,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_125_nd_nd_fr42_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_75_nd_nd_fr41_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_175_nd_nd_fr42_nd_nd_ar1.jpg*175
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_175_nd_nd_fr41_nd_nd_ar2.jpg*175
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_125_nd_nd_fr41_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_200_nd_nd_fr43_nd_nd_ar2.jpg*200
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_175_nd_nd_fr43_nd_nd_ar1.jpg*175
@@ -343,7 +338,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_50_nd_nd_fr44_nd_nd_ar1.jpeg*50
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_100_nd_nd_fr41_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_50_nd_nd_fr44_nd_nd_ar2.jpeg*50
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_200_nd_nd_fr42_nd_nd_ar2.jpeg*200
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_75_nd_nd_fr41_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_75_nd_nd_fr42_nd_nd_ar1.jpeg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_175_nd_nd_fr45_nd_nd_ar1.jpeg*175
@@ -413,7 +407,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_75_nd_nd_fr45_nd_nd_ar2.jpeg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_50_nd_nd_fr44_nd_nd_ar1.jpeg*50
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_100_nd_nd_fr41_nd_nd_ar2.jpg*100
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_100_nd_nd_fr45_nd_nd_ar2.jpeg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_100_nd_nd_fr41_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_75_nd_nd_fr45_nd_nd_ar1.jpeg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_125_nd_nd_fr40_nd_nd_ar1.jpg*125
@@ -475,7 +468,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_75_nd_nd_fr43_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_175_nd_nd_fr45_nd_nd_ar1.jpg*175
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_150_nd_nd_fr42_nd_nd_ar1.jpg*150
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_150_nd_nd_fr44_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_125_nd_nd_fr41_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_100_nd_nd_fr45_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_75_nd_nd_fr40_nd_nd_ar2.jpg*75
@@ -511,7 +503,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_150_nd_nd_fr45_nd_nd_ar2.jpeg*150
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_75_nd_nd_fr40_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_175_nd_nd_fr45_nd_nd_ar2.jpeg*175
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_50_nd_nd_fr47_nd_nd_ar1.jpeg*50
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_125_nd_nd_fr45_nd_nd_ar1.jpeg*125
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_75_nd_nd_fr41_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_125_nd_nd_fr45_nd_nd_ar2.jpeg*125
@@ -519,7 +510,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_75_nd_nd_fr42_nd_nd_ar2.jpeg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_50_nd_nd_fr41_nd_nd_ar2.jpg*50
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_125_nd_nd_fr42_nd_nd_ar2.jpeg*125
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_75_nd_nd_fr46_nd_nd_ar2.jpeg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_125_nd_nd_fr42_nd_nd_ar1.jpeg*125
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_200_nd_nd_fr45_nd_nd_ar2.jpeg*200
 /srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_100_nd_nd_fr43_nd_nd_ar1.jpeg*100
@@ -660,7 +650,6 @@
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_50_nd_nd_fr40_nd_nd_ar1.jpeg*50
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_75_nd_nd_fr42_nd_nd_ar1.jpeg*75
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_75_nd_nd_fr46_nd_nd_ar1.jpg*75
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_125_nd_nd_fr41_nd_nd_ar2.jpeg*125
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_100_nd_nd_fr44_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_100_nd_nd_fr46_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_75_nd_nd_fr44_nd_nd_ar1.jpg*75
@@ -673,19 +662,15 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_75_nd_nd_fr70_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_75_nd_nd_fr75_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_75_nd_nd_fr74_nd_nd_ar2.jpg*75
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_150_nd_nd_fr74_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_125_nd_nd_fr73_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_75_nd_nd_fr75_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_75_nd_nd_fr75_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_75_nd_nd_fr74_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_100_nd_nd_fr73_nd_nd_ar1.jpg*100
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_75_nd_nd_fr75_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_75_nd_nd_fr71_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_75_nd_nd_fr76_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_100_nd_nd_fr73_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_75_nd_nd_fr73_nd_nd_ar1.jpg*75
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_150_nd_nd_fr76_nd_nd_ar1.jpg*150
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_200_nd_nd_fr74_nd_nd_ar2.jpg*200
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_75_nd_nd_fr74_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_100_nd_nd_fr71_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_175_nd_nd_fr70_nd_nd_ar1.jpg*175
@@ -698,18 +683,15 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_125_nd_nd_fr71_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_150_nd_nd_fr71_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_175_nd_nd_fr71_nd_nd_ar1.jpg*175
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_175_nd_nd_fr76_nd_nd_ar1.jpg*175
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_75_nd_nd_fr71_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_50_nd_nd_fr74_nd_nd_ar2.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_125_nd_nd_fr74_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_200_nd_nd_fr70_nd_nd_ar2.jpg*200
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_150_nd_nd_fr73_nd_nd_ar1.jpg*150
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_125_nd_nd_fr76_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_150_nd_nd_fr75_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_150_nd_nd_fr76_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_100_nd_nd_fr71_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_75_nd_nd_fr74_nd_nd_ar1.jpg*75
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_100_nd_nd_fr71_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_125_nd_nd_fr72_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_125_nd_nd_fr72_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_150_nd_nd_fr71_nd_nd_ar1.jpg*150
@@ -728,7 +710,6 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_75_nd_nd_fr72_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_50_nd_nd_fr74_nd_nd_ar2.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_50_nd_nd_fr74_nd_nd_ar2.jpg*50
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_50_nd_nd_fr72_nd_nd_ar2.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_150_nd_nd_fr72_nd_nd_ar1.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_200_nd_nd_fr75_nd_nd_ar1.jpg*200
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_125_nd_nd_fr72_nd_nd_ar2.jpg*125
@@ -760,7 +741,6 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_150_nd_nd_fr76_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_100_nd_nd_fr72_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_50_nd_nd_fr75_nd_nd_ar2.jpg*50
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_75_nd_nd_fr71_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_125_nd_nd_fr75_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_75_nd_nd_fr76_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_75_nd_nd_fr74_nd_nd_ar1.jpg*75
@@ -770,12 +750,10 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_150_nd_nd_fr71_nd_nd_ar1.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_75_nd_nd_fr71_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_200_nd_nd_fr76_nd_nd_ar1.jpg*200
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_125_nd_nd_fr73_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_50_nd_nd_fr76_nd_nd_ar1.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_150_nd_nd_fr72_nd_nd_ar1.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_175_nd_nd_fr75_nd_nd_ar1.jpg*175
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_200_nd_nd_fr74_nd_nd_ar1.jpg*200
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_100_nd_nd_fr74_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_125_nd_nd_fr74_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_125_nd_nd_fr70_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_100_nd_nd_fr76_nd_nd_ar2.jpg*100
@@ -794,18 +772,15 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_125_nd_nd_fr75_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_125_nd_nd_fr71_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_100_nd_nd_fr71_nd_nd_ar1.jpg*100
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_150_nd_nd_fr76_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_125_nd_nd_fr74_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_75_nd_nd_fr70_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_125_nd_nd_fr71_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_125_nd_nd_fr73_nd_nd_ar2.jpg*125
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_200_nd_nd_fr73_nd_nd_ar1.jpg*200
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_100_nd_nd_fr74_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_175_nd_nd_fr70_nd_nd_ar2.jpg*175
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_75_nd_nd_fr72_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_75_nd_nd_fr71_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_50_nd_nd_fr74_nd_nd_ar2.jpg*50
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_50_nd_nd_fr70_nd_nd_ar1.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_100_nd_nd_fr76_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_150_nd_nd_fr75_nd_nd_ar1.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_75_nd_nd_fr72_nd_nd_ar2.jpg*75
@@ -834,10 +809,7 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_200_nd_nd_fr73_nd_nd_ar1.jpg*200
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_125_nd_nd_fr73_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_150_nd_nd_fr71_nd_nd_ar1.jpg*150
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_75_nd_nd_fr70_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_125_nd_nd_fr70_nd_nd_ar1.jpg*125
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_50_nd_nd_fr75_nd_nd_ar1.jpg*50
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_175_nd_nd_fr76_nd_nd_ar2.jpg*175
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_75_nd_nd_fr71_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_125_nd_nd_fr74_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_50_nd_nd_fr70_nd_nd_ar2.jpg*50
@@ -852,7 +824,6 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_100_nd_nd_fr71_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_50_nd_nd_fr74_nd_nd_ar1.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_50_nd_nd_fr70_nd_nd_ar1.jpg*50
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_100_nd_nd_fr74_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_150_nd_nd_fr70_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_50_nd_nd_fr71_nd_nd_ar2.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_125_nd_nd_fr74_nd_nd_ar1.jpg*125
@@ -886,8 +857,6 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_125_nd_nd_fr72_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_50_nd_nd_fr74_nd_nd_ar1.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_50_nd_nd_fr71_nd_nd_ar2.jpg*50
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_100_nd_nd_fr70_nd_nd_ar1.jpg*100
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_200_nd_nd_fr75_nd_nd_ar1.jpg*200
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_100_nd_nd_fr75_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_200_nd_nd_fr74_nd_nd_ar2.jpg*200
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_50_nd_nd_fr71_nd_nd_ar2.jpg*50
@@ -940,7 +909,6 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_150_nd_nd_fr72_nd_nd_ar2.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_125_nd_nd_fr74_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_200_nd_nd_fr73_nd_nd_ar1.jpg*200
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_125_nd_nd_fr76_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_50_nd_nd_fr70_nd_nd_ar1.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_100_nd_nd_fr75_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_200_nd_nd_fr71_nd_nd_ar2.jpg*200
@@ -961,7 +929,6 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_75_nd_nd_fr72_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_100_nd_nd_fr76_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_50_nd_nd_fr70_nd_nd_ar2.jpg*50
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_125_nd_nd_fr70_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_125_nd_nd_fr75_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_150_nd_nd_fr72_nd_nd_ar1.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_50_nd_nd_fr75_nd_nd_ar1.jpg*50
@@ -997,14 +964,12 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_175_nd_nd_fr71_nd_nd_ar2.jpg*175
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_125_nd_nd_fr72_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_75_nd_nd_fr74_nd_nd_ar1.jpg*75
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_175_nd_nd_fr73_nd_nd_ar2.jpg*175
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_125_nd_nd_fr75_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_100_nd_nd_fr75_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_125_nd_nd_fr70_nd_nd_ar1.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chato_50_nd_nd_fr70_nd_nd_ar2.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Cata_125_nd_nd_fr76_nd_nd_ar2.jpg*125
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Pinta_125_nd_nd_fr70_nd_nd_ar2.jpg*125
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Char_150_nd_nd_fr75_nd_nd_ar1.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Balon_150_nd_nd_fr76_nd_nd_ar1.jpg*150
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Dura_100_nd_nd_fr73_nd_nd_ar2.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_200_nd_nd_fr75_nd_nd_ar2.jpg*200
@@ -1033,7 +998,6 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_200_nd_nd_fr70_nd_nd_ar1.jpg*200
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_50_nd_nd_fr75_nd_nd_ar2.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_50_nd_nd_fr73_nd_nd_ar2.jpg*50
-/srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bor_75_nd_nd_fr73_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_75_nd_nd_fr75_nd_nd_ar2.jpg*75
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_100_nd_nd_fr70_nd_nd_ar1.jpg*100
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_200_nd_nd_fr72_nd_nd_ar2.jpg*200
@@ -1396,16 +1360,13 @@
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Chiqu_50_nd_nd_fr73_nd_nd_ar2.jpg*50
 /srv/data/cuasiReales/La Rioja/CIBIR/Rea_Rio_C_Bur_75_nd_nd_fr72_nd_nd_ar1.jpg*75
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bor_50_nd_nd_fr10_nd_nd_ar1.JPG*50
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bur_75_nd_nd_fr10_nd_nd_ar2.JPG*75
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bur_100_nd_nd_fr10_nd_nd_ar2.JPG*100
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bor_200_nd_nd_fr10_nd_nd_ar2.JPG*200
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Pinta_175_nd_nd_fr10_nd_nd_ar1.JPG*175
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Cata_50_nd_nd_fr10_nd_nd_ar2.JPG*50
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Chato_50_nd_nd_fr10_nd_nd_ar1.JPG*50
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Char_75_nd_nd_fr10_nd_nd_ar2.JPG*75
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Dura_200_nd_nd_fr10_nd_nd_ar1.JPG*200
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bur_200_nd_nd_fr10_nd_nd_ar1.JPG*200
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Char_100_nd_nd_fr10_nd_nd_ar1.JPG*100
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Pinta_50_nd_nd_fr10_nd_nd_ar2.JPG*50
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Balon_200_nd_nd_fr10_nd_nd_ar1.JPG*200
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bur_100_nd_nd_fr10_nd_nd_ar1.JPG*100
@@ -1415,7 +1376,6 @@
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Chato_125_nd_nd_fr10_nd_nd_ar1.JPG*125
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Dura_100_nd_nd_fr10_nd_nd_ar1.JPG*100
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bur_125_nd_nd_fr10_nd_nd_ar1.JPG*125
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bor_125_nd_nd_fr10_nd_nd_ar2.JPG*125
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Balon_175_nd_nd_fr10_nd_nd_ar2.JPG*175
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Pinta_125_nd_nd_fr10_nd_nd_ar1.JPG*125
 /srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bur_175_nd_nd_fr10_nd_nd_ar2.JPG*175
@@ -1532,9 +1492,8 @@
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Balon_100_nd_nd_fr11_nd_nd_ar2.JPG*100
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Balon_75_nd_nd_fr11_nd_nd_ar2.JPG*75
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bur_200_nd_nd_fr11_nd_nd_ar1.JPG*200
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bur_110_nd_nd_fr10_nd_nd_ar2.JPG*110
+/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bur_100_nd_nd_fr10_nd_nd_ar2.JPG*100
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Char_100_nd_nd_fr11_nd_nd_ar2.JPG*100
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Dura_175_nd_nd_fr11_nd_nd_ar1.JPG*175
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bur_75_nd_nd_fr11_nd_nd_ar1.JPG*75
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Chiqu_125_nd_nd_fr11_nd_nd_ar1.JPG*125
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Pinta_175_nd_nd_fr11_nd_nd_ar2.JPG*175
@@ -1570,7 +1529,6 @@
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Dura_125_nd_nd_fr11_nd_nd_ar1.JPG*125
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Chato_75_nd_nd_fr11_nd_nd_ar1.JPG*75
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bor_200_nd_nd_fr11_nd_nd_ar2.JPG*200
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Balon_150_nd_nd_fr11_nd_nd_ar2.JPG*150
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bur_150_nd_nd_fr11_nd_nd_ar1.JPG*150
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Dura_100_nd_nd_fr11_nd_nd_ar2.JPG*100
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Balon_75_nd_nd_fr11_nd_nd_ar1.JPG*75
@@ -1579,15 +1537,13 @@
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bur_150_nd_nd_fr11_nd_nd_ar2.JPG*150
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Cata_50_nd_nd_fr11_nd_nd_ar2.JPG*50
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Dura_150_nd_nd_fr11_nd_nd_ar1.JPG*150
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Chiqu_50_nd_nd_fr11_nd_nd_ar2.JPG*50
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Pinta_125_nd_nd_fr11_nd_nd_ar1.JPG*125
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Chiqu_75_nd_nd_fr11_nd_nd_ar2.JPG*75
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bor_125_nd_nd_fr11_nd_nd_ar1.JPG*125
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Chiqu_100_nd_nd_fr11_nd_nd_ar1.JPG*100
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Dura_125_nd_nd_fr11_nd_nd_ar2.JPG*125
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Pinta_200_nd_nd_fr11_nd_nd_ar1.JPG*200
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Pinta_200_nd_nd_fr11_nd_nd_ar2.JPG*200
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bor_110_nd_nd_fr10_nd_nd_ar1.JPG*110
+/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bor_100_nd_nd_fr10_nd_nd_ar1.JPG*100
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Bor_75_nd_nd_fr11_nd_nd_ar2.JPG*75
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Chato_100_nd_nd_fr11_nd_nd_ar1.JPG*100
 /srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Chato_100_nd_nd_fr11_nd_nd_ar2.JPG*100
@@ -1657,7 +1613,6 @@
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Bur_50_nd_nd_fr15_nd_nd_ar2.JPG*50
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Dura_125_nd_nd_fr15_nd_nd_ar1.JPG*125
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_nd_75_nd_nd_fr15_nd_nd_ar2.JPG*75
-/srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Chato_125_nd_nd_fr15_nd_nd_ar2.JPG*125
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Balon_150_nd_nd_fr15_nd_nd_ar1.JPG*150
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Pinta_75_nd_nd_fr15_nd_nd_ar2.JPG*75
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Dura_175_nd_nd_fr15_nd_nd_ar1.JPG*175
@@ -1671,7 +1626,6 @@
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Dura_200_nd_nd_fr15_nd_nd_ar1.JPG*200
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_nd_75_nd_nd_fr15_nd_nd_ar1.JPG*75
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Bor_100_nd_nd_fr15_nd_nd_ar2.JPG*100
-/srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Cata_100_nd_nd_fr15_nd_nd_ar2.JPG*100
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Char_100_nd_nd_fr15_nd_nd_ar1.JPG*100
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Balon_100_nd_nd_fr15_nd_nd_ar1.JPG*100
 /srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_Char_150_nd_nd_fr15_nd_nd_ar2.JPG*150
@@ -1782,7 +1736,6 @@
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Balon_175_nd_nd_fr13_nd_nd_ar2.JPG*175
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Pinta_200_nd_nd_fr13_nd_nd_ar2.JPG*200
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Cata_100_nd_nd_fr13_nd_nd_ar2.JPG*100
-/srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Pinta_125_nd_nd_fr13_nd_nd_ar2.JPG*125
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Chato_100_nd_nd_fr13_nd_nd_ar2.JPG*100
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Bur_200_nd_nd_fr13_nd_nd_ar1.JPG*200
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Dura_100_nd_nd_fr13_nd_nd_ar1.JPG*100
@@ -1791,7 +1744,6 @@
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Bur_75_nd_nd_fr13_nd_nd_ar1.JPG*75
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Bur_150_nd_nd_fr13_nd_nd_ar1.JPG*150
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Char_100_nd_nd_fr13_nd_nd_ar1.JPG*100
-/srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Bur_175_nd_nd_fr13_nd_nd_ar1.JPG*175
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Bur_175_nd_nd_fr13_nd_nd_ar2.JPG*175
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Pinta_125_nd_nd_fr13_nd_nd_ar1.JPG*125
 /srv/data/cuasiReales/Madrid/fr13/Rea_Mad_J_Char_100_nd_nd_fr13_nd_nd_ar2.JPG*100
@@ -1876,7 +1828,6 @@
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Pinta_125_nd_nd_fr12_nd_nd_ar2.JPG*125
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Chato_75_nd_nd_fr12_nd_nd_ar2.JPG*75
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Chiqu_125_nd_nd_fr12_nd_nd_ar2.JPG*125
-/srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Bor_150_nd_nd_fr12_nd_nd_ar2.JPG*150
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Dura_175_nd_nd_fr12_nd_nd_ar1.JPG*175
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Dura_75_nd_nd_fr12_nd_nd_ar2.JPG*75
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Dura_100_nd_nd_fr12_nd_nd_ar2.JPG*100
@@ -1912,7 +1863,6 @@
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Chiqu_50_nd_nd_fr12_nd_nd_ar2.JPG*50
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Bor_175_nd_nd_fr12_nd_nd_ar2.JPG*175
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Balon_150_nd_nd_fr12_nd_nd_ar2.JPG*150
-/srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Dura_200_nd_nd_fr12_nd_nd_ar1.JPG*200
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Bur_175_nd_nd_fr12_nd_nd_ar2.JPG*175
 /srv/data/cuasiReales/Madrid/fr12/Rea_Mad_J_Bor_125_nd_nd_fr12_nd_nd_ar1.JPG*125
 /srv/data/allVoluntarios/train/5c61f838-32bc-4faa-858d-a215981d0618_otra_crianza_125_copa_cata_cena_02-06-2021_20-59-54.jpg*125
@@ -2139,5 +2089,4 @@
 /srv/data/allVoluntarios/train/0fd89cb7-780b-41d2-ac80-10b553c098c3_madrid_joven_100_no_determinado_almuerzo_20-11-2021_13-50-00.jpg*100
 /srv/data/allVoluntarios/train/8ec17b0f-b668-49d7-8d6e-9799c5601a30_otra_crianza_100_copa_borg_almuerzo_01-06-2021_13-46-20.jpg*100
 /srv/data/allVoluntarios/train/0fd89cb7-780b-41d2-ac80-10b553c098c3_madrid_joven_100_no_determinado_almuerzo_20-11-2021_13-52-52.jpg*100
-/srv/data/allVoluntarios/train/28b0a91f-c60c-4a1b-afbc-db6351599977_madrid_crianza_125_copa_borg_cena_08-11-2021_19-54-47.jpg*125
 /srv/data/allVoluntarios/train/7f197478-71bd-4720-a295-65d443ff12bf_otra_crianza_125_copa_cata_almuerzo_28-06-2021_12-11-28.jpeg*125
