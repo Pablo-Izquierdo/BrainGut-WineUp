@@ -41,15 +41,7 @@ def create_model(CONF):
     ## architecture = getattr(applications, CONF['model']['modelname'])
     model_path = '/srv/image-classification-tf/models/2021-11-03_Lab_All_CopasVasos_All_reg/ckpts/final_model.h5'
 
-    # create the base pre-trained model
-    ## img_width, img_height = CONF['model']['image_size'], CONF['model']['image_size']
-    ## base_model = architecture(weights='imagenet', include_top=False, input_shape=(img_width, img_height, 3))
-#     base_model = keras.load_model(h5)
-#     ## cargar el modelo y borrar las ultimas capas
-#     base_model=base_model.layers.pop()
-#     base_model=base_model.layers.pop()
-    ## model1=model.load_weights(weights)
-    # load model
+    # load pretrained laboratory model
     model1 = load_model(model_path, custom_objects={'customAdam': customAdam})
     base_model= Model(inputs=model1.input, outputs=model1.layers[-4].output)
     # Add custom layers at the top to adapt it to our problem
@@ -59,8 +51,8 @@ def create_model(CONF):
     x = Dense(1024,
               activation='relu')(x)
 #     predictions = Dense(CONF['model']['num_classes'],
-#                         activation='softmax')(x) ### esto es para un problema de clasificacion
-    predictions = Dense(1, activation='linear')(x) ### para un problema de regresion
+#                         activation='softmax')(x) ### for classification tasks
+    predictions = Dense(1, activation='linear')(x) ### for regression tasks
 
     # Full model
     model = Model(inputs=base_model.input, outputs=predictions)
@@ -164,16 +156,6 @@ def save_default_imagenet_model():
 
     paths.timestamp = TIMESTAMP
     paths.CONF = CONF
-
-    # Create classes.txt for ImageNet ## comentar todo
-#     fpath = keras.utils.get_file(
-#         'imagenet_class_index.json',
-#         'https://s3.amazonaws.com/deep-learning-models/image-models/imagenet_class_index.json',
-#         cache_subdir='models',
-#         file_hash='c2c37ea517e94d9795004a39431a14cb')
-#     with open(fpath) as f:
-#         classes = json.load(f)
-#     classes = np.array(list(classes.values()))[:, 1]
 
     # Create the model
     architecture = getattr(applications, CONF['model']['modelname'])
