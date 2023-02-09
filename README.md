@@ -1,5 +1,5 @@
-DEEP Open Catalogue: Image classification
-=========================================
+BrainGut_WineUp: predict wine volume in an image
+================================================
 
 **Author:** [Miriam Cobo](https://github.com/MiriamCobo) (CSIC)
 
