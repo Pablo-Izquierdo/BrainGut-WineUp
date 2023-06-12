@@ -1,28 +1,1022 @@
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Chardonnay/Rea_Rio_R_Char_150_nd_nd_fr40_nd_nd_ar2.jpg*150
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Chardonnay/Rea_Rio_R_Char_50_nd_nd_fr44_nd_nd_ar2.jpg*50
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Chato/Rea_Rio_R_Chato_75_nd_nd_fr40_nd_nd_ar1.jpg*75
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Chato/Rea_Rio_R_Chato_100_nd_nd_fr41_nd_nd_ar1.jpg*100
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_200_nd_nd_fr45_nd_nd_ar1.jpg*200
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Burdeos/Rea_Rio_R_Bur_175_nd_nd_fr40_nd_nd_ar1.jpeg*175
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_150_nd_nd_fr41_nd_nd_ar1.jpg*150
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Borgoña/Rea_Rio_R_Bor_125_nd_nd_fr40_nd_nd_ar2.jpg*125
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_175_nd_nd_fr40_nd_nd_ar2.jpg*175
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Duralex/Rea_Rio_R_Dura_100_nd_nd_fr45_nd_nd_ar2.jpeg*100
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_125_nd_nd_fr42_nd_nd_ar2.jpeg*125
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Chiquito/Rea_Rio_R_Chiqu_75_nd_nd_fr43_nd_nd_ar2.jpeg*75
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_150_nd_nd_fr45_nd_nd_ar2.jpg*150
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Balon/Rea_Rio_R_Balon_125_nd_nd_fr43_nd_nd_ar1.jpg*125
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_100_nd_nd_fr46_nd_nd_ar2.jpeg*100
-/srv/data/cuasiReales/La Rioja/ICVV/Vaso Pinta/Rea_Rio_R_Pinta_150_nd_nd_fr44_nd_nd_ar2.jpeg*150
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_50_nd_nd_fr47_nd_nd_ar1.jpg*50
-/srv/data/cuasiReales/La Rioja/ICVV/Copa Cata/Rea_Rio_R_Cata_75_nd_nd_fr43_nd_nd_ar2.jpeg*75
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Cata_125_nd_nd_fr10_nd_nd_ar1.JPG*125
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Dura_200_nd_nd_fr10_nd_nd_ar2.JPG*200
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Char_100_nd_nd_fr10_nd_nd_ar2.JPG*100
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Balon_175_nd_nd_fr10_nd_nd_ar1.JPG*175
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bor_50_nd_nd_fr10_nd_nd_ar2.JPG*50
-/srv/data/cuasiReales/Madrid/fr10/Rea_Mad_J_Bor_125_nd_nd_fr10_nd_nd_ar1.JPG*125
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Dura_200_nd_nd_fr11_nd_nd_ar2.JPG*200
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Chato_50_nd_nd_fr11_nd_nd_ar2.JPG*50
-/srv/data/cuasiReales/Madrid/fr11/Rea_Mad_J_Balon_100_nd_nd_fr11_nd_nd_ar1.JPG*100
-/srv/data/cuasiReales/Madrid/fr15/Rea_Mad_J_nd_150_nd_nd_fr15_nd_nd_ar1.JPG*150
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Spb_int_al_sup.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.58/Rio_M_Fuji_132,58_Spb_ext_ce_ver.JPG*132,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/157.36/Rio_M_Fuji_157,36_Spm_int_ce_ver.JPG*157,36
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.42/Rio_M_Golden_251,42_Spm_ext_ce_ver.jpg*251,42
+/home/jovyan/data/nextcloud/MANZANA/Fuji/286.43/Rio_M_Fuji_286,43_Ppb_ext_al_sup.JPG*286,43
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.80/Rio_M_Fuji_132,80_Spm_int_al_ver.JPG*132,80
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Ppb_ext_al_sup.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Ppb_ext_me_sup.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Spm_int_me_cen.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Spb_ext_me_sup.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Pgb_ext_ce_ver.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/188,51/Mad_M_Granny Smith_188,51_Pgb_ext_al_cen.JPG*188,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/190,49/Rio_M_Golden_190,49_Pgb_int_ce_cen.jpg*190,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.14/Rio_M_Fuji_141,14_Pgb_ext_al_sup.JPG*141,14
+/home/jovyan/data/nextcloud/MANZANA/Golden/212,54/Rio_M_Golden_212,54_Ppb_int_me_cen.jpg*212,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Spb_ext_al_ver.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/145.59/Rio_M_Fuji_145,59_Pgb_ext_me_ver.JPG*145,59
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,09/Rio_M_Golden_196,09_Spm_ext_ce_sup.jpg*196,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/185.73/Rio_M_Golden_185,73_Spm_ext_me_ver.jpg*185,73
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/173,76/Mad_M_Granny Smith_173,76_Pgb_ext_al_sup.JPG*173,76
+/home/jovyan/data/nextcloud/MANZANA/Golden/179.79/Rio_M_Golden_179,79_Spb_ext_al_sup.jpg*179,79
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Pgb_ext_al_ver.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Golden/247.65/Rio_M_Golden_247,65_Pgb_ext_al_sup.jpg*247,65
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/229,43/Mad_M_Granny Smith_229,43_Spb_ext_al_cen.JPG*229,43
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,76/Mad_M_Granny Smith_174,76_Spm_ext_me_cen.JPG*174,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.83/Rio_M_Fuji_205,83_Ppb_ext_me_ver.JPG*205,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.28/Rio_M_Golden_251,28_Spb_int_me_cen.jpg*251,28
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Ppb_ext_me_ver.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.80/Rio_M_Fuji_132,80_Pgb_int_ce_sup.JPG*132,80
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/183,96/Mad_M_Granny Smith_183,96_Spm_ext_me_sup.JPG*183,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/188.92/Rio_M_Golden_188,92_Spm_int_al_cen.jpg*188,92
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Pgb_ext_ce_sup.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Golden/185.73/Rio_M_Golden_185,73_Spb_ext_al_ver.jpg*185,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Spb_int_al_sup.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/253.17/Rio_M_Fuji_253,17_Spb_int_me_sup.jpg*253,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/142.70/Rio_M_Fuji_142,70_Spm_int_me_sup.JPG*142,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Spb_int_al_cen.jpg*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/144.23/Rio_M_Fuji_144,23_Pgb_ext_ce_cen.JPG*144,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.74/Rio_M_Golden_143,74_Spm_int_al_cen.jpg*143,74
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Spb_int_ce_ver.jpg*287,19
+/home/jovyan/data/nextcloud/MANZANA/Golden/202,84/Rio_M_Golden_202,84_Ppb_ext_me_ver.jpg*202,84
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spb_ext_ce_ver.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Spm_int_me_cen.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Spm_ext_ce_ver.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Pgb_ext_ce_ver.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.99/Rio_M_Fuji_141,99_Spb_int_al_ver.JPG*141,99
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Spm_ext_al_ver.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.58/Rio_M_Fuji_132,58_Spb_int_me_ver.JPG*132,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spb_int_me_cen.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Ppb_ext_al_cen.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Pgb_ext_al_ver.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Spm_int_ce_sup.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.24/Rio_M_Fuji_198,24_Spm_ext_me_cen.JPG*198,24
+/home/jovyan/data/nextcloud/MANZANA/Golden/151.61/Rio_M_Golden_151,61_Spb_ext_al_cen.jpg*151,61
+/home/jovyan/data/nextcloud/MANZANA/Fuji/285.75/Rio_M_Fuji_285,75_Pgb_int_al_sup.JPG*285,75
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/260,40/Mad_M_Granny Smith_260,40_Spm_int_al_sup.JPG*260,40
+/home/jovyan/data/nextcloud/MANZANA/Golden/240.16/Rio_M_Golden_240,16_Spb_int_al_sup.jpg*240,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.09/Rio_M_Golden_134,09_Ppb_int_al_sup.jpg*134,09
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.23/Rio_M_Fuji_205,23_Ppb_ext_al_sup.JPG*205,23
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/183,96/Mad_M_Granny Smith_183,96_Spb_int_al_sup.JPG*183,96
+/home/jovyan/data/nextcloud/MANZANA/Fuji/280.70/Rio_M_Fuji_280,70_Pgb_int_ce_ver.JPG*280,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Spm_ext_al_ver.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Ppb_ext_me_cen.JPG*129,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Ppb_ext_al_sup.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spm_int_al_sup.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/204,04/Rio_M_Golden_204,04_Pgb_int_al_sup.jpg*204,04
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/240,23/Mad_M_Granny Smith_240,23_Spb_int_ce_ver.JPG*240,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/250.75/Rio_M_Golden_250,75_Spb_ext_al_cen.jpg*250,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.14/Rio_M_Fuji_265,14_Pgb_int_al_sup.JPG*265,14
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Pgb_int_ce_cen.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/157.36/Rio_M_Fuji_157,36_Pgb_int_ce_cen.JPG*157,36
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Pgb_int_al_ver.JPG*282,83
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/173,76/Mad_M_Granny Smith_173,76_Pgb_ext_al_ver.JPG*173,76
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Ppb_ext_me_cen.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/179.79/Rio_M_Golden_179,79_Spb_int_al_ver.jpg*179,79
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Pgb_ext_al_sup.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Pgb_ext_me_sup.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.28/Rio_M_Golden_251,28_Pgb_int_ce_sup.jpg*251,28
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Spm_int_al_ver.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.58/Rio_M_Fuji_132,58_Ppb_int_me_cen.jpg*132,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Ppb_ext_me_ver.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Ppb_ext_ce_sup.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.09/Rio_M_Golden_134,09_Spb_ext_ce_cen.jpg*134,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/147.55/Rio_M_Golden_147,55_Pgb_ext_me_cen.jpg*147,55
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.92/Rio_M_Golden_143,92_Spb_int_ce_ver.jpg*143,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.80/Rio_M_Fuji_198,80_Ppb_ext_ce_cen.JPG*198,80
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Ppb_int_ce_ver.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,68/Rio_M_Golden_196,68_Spm_ext_al_sup.jpg*196,68
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Pgb_ext_ce_sup.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Ppb_int_al_cen.jpg*131,07
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Spb_int_me_sup.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/269.93/Rio_M_Fuji_269,93_Spb_int_al_sup.jpg*269,93
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.80/Rio_M_Fuji_132,80_Spm_int_me_cen.JPG*132,80
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/183,96/Mad_M_Granny Smith_183,96_Spb_int_ce_sup.JPG*183,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Spm_ext_ce_cen.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Spm_ext_al_sup.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Spm_ext_ce_sup.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Fuji/142.70/Rio_M_Fuji_142,70_Pgb_int_ce_sup.JPG*142,70
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Pgb_ext_al_cen.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spm_ext_al_sup.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Ppb_int_al_ver.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/171,74/Mad_M_Granny Smith_171,74_Pgb_ext_me_sup.JPG*171,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Spm_int_al_sup.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Fuji/157.36/Rio_M_Fuji_157,36_Pgb_int_al_cen.JPG*157,36
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Spb_int_al_ver.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/185,75/Mad_M_Granny Smith_185,75_Pgb_int_me_sup.JPG*185,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/280.70/Rio_M_Fuji_280,70_Pgb_ext_al_cen.JPG*280,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Spb_int_me_cen.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Ppb_int_al_ver.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.23/Rio_M_Fuji_205,23_Spb_int_ce_sup.JPG*205,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.09/Rio_M_Golden_134,09_Pgb_ext_ce_sup.jpg*134,09
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Spb_int_me_cen.jpg*271,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/146.54/Rio_M_Fuji_146,54_Ppb_int_me_cen.jpg*146,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.92/Rio_M_Golden_143,92_Spb_ext_al_cen.jpg*143,92
+/home/jovyan/data/nextcloud/MANZANA/Golden/259.08/Rio_M_Golden_259,08_Spm_ext_me_cen.jpg*259,08
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Pgb_ext_ce_cen.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Ppb_ext_me_sup.JPG*296,26
+/home/jovyan/data/nextcloud/MANZANA/Golden/204,04/Rio_M_Golden_204,04_Pgb_int_me_ver.jpg*204,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.83/Rio_M_Fuji_205,83_Spb_ext_me_ver.JPG*205,83
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Pgb_int_al_ver.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/142.70/Rio_M_Fuji_142,70_Pgb_int_al_ver.JPG*142,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/280.70/Rio_M_Fuji_280,70_Spm_ext_al_sup.JPG*280,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.23/Rio_M_Fuji_205,23_Spm_ext_al_ver.JPG*205,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Spb_int_me_sup.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Pgb_ext_me_cen.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/202.21/Rio_M_Fuji_202,21_Pgb_int_me_ver.JPG*202,21
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/240,23/Mad_M_Granny Smith_240,23_Pgb_int_ce_cen.JPG*240,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Spb_int_al_ver.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Pgb_int_al_ver.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Spm_int_ce_cen.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/204,04/Rio_M_Golden_204,04_Spm_ext_al_sup.jpg*204,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/202.21/Rio_M_Fuji_202,21_Spb_int_al_ver.JPG*202,21
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Spb_int_me_cen.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Spb_ext_ce_cen.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spb_ext_ce_cen.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.28/Rio_M_Golden_251,28_Spb_ext_me_ver.jpg*251,28
+/home/jovyan/data/nextcloud/MANZANA/Golden/246.49/Rio_M_Golden_246,49_Spm_int_me_ver.jpg*246,49
+/home/jovyan/data/nextcloud/MANZANA/Golden/212,54/Rio_M_Golden_212,54_Pgb_int_me_cen.jpg*212,54
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Spb_int_al_sup.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,68/Rio_M_Golden_196,68_Spm_int_me_ver.jpg*196,68
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Ppb_ext_al_sup.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Spb_int_al_cen.JPG*129,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.14/Rio_M_Fuji_141,14_Spm_ext_ce_cen.JPG*141,14
+/home/jovyan/data/nextcloud/MANZANA/Fuji/204.75/Rio_M_Fuji_204,75_Pgb_int_me_sup.JPG*204,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/248.73/Rio_M_Fuji_248,73_Spm_ext_me_sup.JPG*248,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Pgb_ext_ce_sup.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/306.67/Rio_M_Fuji_306,67_Ppb_ext_ce_sup.JPG*306,67
+/home/jovyan/data/nextcloud/MANZANA/Fuji/206.85/Rio_M_Fuji_206,85_Ppb_int_ce_ver.JPG*206,85
+/home/jovyan/data/nextcloud/MANZANA/Golden/139.04/Rio_M_Golden_139,04_Pgb_ext_al_cen.jpg*139,04
+/home/jovyan/data/nextcloud/MANZANA/Golden/179.79/Rio_M_Golden_179,79_Spm_ext_me_sup.jpg*179,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/202,84/Rio_M_Golden_202,84_Ppb_int_me_ver.jpg*202,84
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Ppb_int_al_ver.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.92/Rio_M_Golden_134,92_Spm_ext_me_cen.jpg*134,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Spm_int_me_cen.JPG*307,11
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Pgb_ext_me_cen.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/247.14/Rio_M_Golden_247,14_Ppb_ext_al_ver.jpg*247,14
+/home/jovyan/data/nextcloud/MANZANA/Golden/138.45/Rio_M_Golden_138,45_Ppb_int_ce_sup.jpg*138,45
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,68/Rio_M_Golden_196,68_Pgb_ext_al_ver.jpg*196,68
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,76/Mad_M_Granny Smith_174,76_Pgb_int_ce_cen.JPG*174,76
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Spm_ext_ce_sup.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Spm_ext_ce_cen.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Fuji/269.93/Rio_M_Fuji_269,93_Spm_int_al_sup.JPG*269,93
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Spb_ext_me_sup.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Fuji/306.67/Rio_M_Fuji_306,67_Ppb_ext_al_sup.JPG*306,67
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Pgb_int_ce_cen.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.00/Rio_M_Golden_127_Pgb_int_al_cen.jpg*127
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Spm_int_al_cen.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Golden/147.55/Rio_M_Golden_147,55_Ppb_int_al_sup.jpg*147,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/286.43/Rio_M_Fuji_286,43_Spb_ext_al_sup.JPG*286,43
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spb_int_al_cen.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,68/Rio_M_Golden_196,68_Pgb_int_ce_ver.jpg*196,68
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.58/Rio_M_Golden_242,58_Ppb_ext_al_ver.jpg*242,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/146.02/Rio_M_Golden_146,02_Spb_ext_al_cen.jpg*146,02
+/home/jovyan/data/nextcloud/MANZANA/Golden/185.73/Rio_M_Golden_185,73_Ppb_int_ce_sup.jpg*185,73
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Pgb_ext_al_ver.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Spb_ext_ce_ver.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Pgb_int_ce_cen.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,65/Mad_M_Granny Smith_174,65_Pgb_int_ce_ver.JPG*174,65
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/229,43/Mad_M_Granny Smith_229,43_Spm_ext_me_ver.JPG*229,43
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Ppb_ext_ce_ver.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Pgb_ext_me_cen.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Ppb_ext_me_ver.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Spm_int_al_sup.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Spm_int_me_ver.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Fuji/306.67/Rio_M_Fuji_306,67_Pgb_int_me_sup.JPG*306,67
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.09/Rio_M_Golden_134,09_Pgb_int_me_cen.jpg*134,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Pgb_int_me_cen.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/240,23/Mad_M_Granny Smith_202,84_Ppb_ext_me_cen.JPG*202,84
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.23/Rio_M_Fuji_205,23_Ppb_ext_me_ver.JPG*205,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Spm_ext_al_cen.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.10/Rio_M_Fuji_198,10_Spb_int_me_ver.JPG*198,10
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.42/Rio_M_Golden_251,42_Pgb_int_me_sup.jpg*251,42
+/home/jovyan/data/nextcloud/MANZANA/Fuji/306.67/Rio_M_Fuji_306,67_Ppb_int_me_cen.JPG*306,67
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,65/Mad_M_Granny Smith_174,65_Spb_ext_me_ver.JPG*174,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spb_ext_ce_ver.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Pgb_int_al_sup.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Ppb_int_me_ver.JPG*296,26
+/home/jovyan/data/nextcloud/MANZANA/Golden/139.04/Rio_M_Golden_139,04_Pgb_int_ce_ver.jpg*139,04
+/home/jovyan/data/nextcloud/MANZANA/Golden/258.65/Rio_M_Golden_258,65_Pgb_ext_al_sup.jpg*258,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.43/Rio_M_Fuji_265,43_Ppb_ext_al_cen.JPG*265,43
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Spb_int_ce_ver.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Spb_int_al_cen.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Spm_int_me_sup.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Spb_int_al_ver.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Spm_ext_al_cen.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Spb_ext_ce_sup.JPG*307,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Pgb_int_me_ver.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/240.16/Rio_M_Golden_240,16_Spb_ext_al_sup.jpg*240,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Spb_ext_al_ver.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Golden/250.75/Rio_M_Golden_250,75_Spm_int_al_cen.jpg*250,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/138.45/Rio_M_Golden_138,45_Spm_int_me_cen.jpg*138,45
+/home/jovyan/data/nextcloud/MANZANA/Fuji/273.78/Rio_M_Fuji_273,78_Pgb_ext_ce_sup.JPG*273,78
+/home/jovyan/data/nextcloud/MANZANA/Fuji/278.45/Rio_M_Fuji_278,45_Pgb_ext_al_sup.JPG*278,45
+/home/jovyan/data/nextcloud/MANZANA/Fuji/206.85/Rio_M_Fuji_206,85_Ppb_ext_al_cen.JPG*206,85
+/home/jovyan/data/nextcloud/MANZANA/Fuji/278.45/Rio_M_Fuji_278,45_Pgb_int_ce_sup.JPG*278,45
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Spb_ext_ce_sup.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Spb_int_me_sup.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Spb_ext_al_cen.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Fuji/278.45/Rio_M_Fuji_278,45_Ppb_ext_me_ver.JPG*278,45
+/home/jovyan/data/nextcloud/MANZANA/Golden/193,12/Rio_M_Golden_193,12_Ppb_ext_ce_cen.jpg*193,12
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.14/Rio_M_Fuji_141,14_Spm_int_me_sup.JPG*141,14
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Ppb_ext_ce_cen.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Fuji/278.45/Rio_M_Fuji_278,45_Spb_ext_ce_ver.JPG*278,45
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Ppb_int_me_sup.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Spb_ext_al_cen.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.92/Rio_M_Golden_143,92_Pgb_int_me_cen.jpg*143,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Spm_ext_ce_sup.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/190,49/Rio_M_Golden_190,49_Ppb_int_al_ver.jpg*190,49
+/home/jovyan/data/nextcloud/MANZANA/Golden/193,12/Rio_M_Golden_193,12_Ppb_int_me_ver.jpg*193,12
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Spb_int_ce_ver.jpg*296,26
+/home/jovyan/data/nextcloud/MANZANA/Golden/139.04/Rio_M_Golden_139,04_Pgb_int_me_cen.jpg*139,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/206.85/Rio_M_Fuji_206,85_Spm_ext_me_sup.JPG*206,85
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/188,51/Mad_M_Granny Smith_188,51_Pgb_ext_ce_cen.JPG*188,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/190,49/Rio_M_Golden_190,49_Ppb_int_ce_sup.jpg*190,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/144.23/Rio_M_Fuji_144,23_Ppb_int_al_cen.jpg*144,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Pgb_ext_ce_cen.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Spb_ext_me_ver.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Pgb_ext_me_ver.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Pgb_int_al_ver.JPG*129,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/152.73/Rio_M_Fuji_152,73_Pgb_int_ce_ver.JPG*152,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Spb_ext_me_sup.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Ppb_int_ce_ver.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Pgb_int_me_cen.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Fuji/204.75/Rio_M_Fuji_204,75_Pgb_int_me_cen.JPG*204,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Spb_int_ce_ver.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Ppb_int_ce_ver.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.14/Rio_M_Fuji_141,14_Spb_ext_ce_sup.JPG*141,14
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/173,76/Mad_M_Granny Smith_173,76_Ppb_ext_ce_cen.JPG*173,76
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Pgb_int_al_cen.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Ppb_int_me_sup.jpg*109,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Ppb_int_al_ver.jpg*131,07
+/home/jovyan/data/nextcloud/MANZANA/Golden/212,54/Rio_M_Golden_212,54_Pgb_ext_me_sup.jpg*212,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.74/Rio_M_Golden_143,74_Pgb_int_ce_sup.jpg*143,74
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Ppb_int_me_cen.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Fuji/248.73/Rio_M_Fuji_248,73_Pgb_ext_ce_cen.JPG*248,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Spb_int_ce_cen.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.26/Rio_M_Golden_251,26_Spm_int_me_cen.jpg*251,26
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Pgb_int_me_ver.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Ppb_int_me_ver.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/260,40/Mad_M_Granny Smith_260,40_Pgb_int_al_sup.JPG*260,40
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Pgb_int_ce_ver.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/221.75/Rio_M_Fuji_221,75_Spm_ext_me_sup.JPG*221,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Spb_ext_al_ver.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/146.22/Rio_M_Golden_146,22_Spb_ext_me_sup.jpg*146,22
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Spm_ext_ce_sup.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Spb_int_ce_cen.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Ppb_ext_al_ver.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Ppb_int_al_cen.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Spm_ext_me_sup.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Spb_int_al_ver.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Ppb_int_ce_ver.jpg*129,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/259.08/Rio_M_Golden_259,08_Pgb_int_al_cen.jpg*259,08
+/home/jovyan/data/nextcloud/MANZANA/Golden/151.61/Rio_M_Golden_151,61_Ppb_int_me_sup.jpg*151,61
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/246,38/Mad_M_Granny Smith_246,38_Ppb_ext_al_ver.JPG*246,38
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Spb_ext_ce_ver.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/320.09/Rio_M_Fuji_320,09_Spm_ext_al_ver.JPG*320,09
+/home/jovyan/data/nextcloud/MANZANA/Fuji/269.93/Rio_M_Fuji_269,93_Spb_int_al_ver.jpg*269,93
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Spm_ext_ce_sup.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Golden/258.65/Rio_M_Golden_258,65_Spb_int_al_cen.jpg*258,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.26/Rio_M_Golden_251,26_Spm_int_al_ver.jpg*251,26
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Spm_int_ce_cen.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.04/Rio_M_Fuji_211,04_Pgb_ext_al_ver.JPG*211,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Ppb_int_me_sup.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/253.17/Rio_M_Fuji_253,17_Spm_ext_al_sup.JPG*253,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/199.97/Rio_M_Fuji_199,97_Pgb_ext_al_sup.JPG*199,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Spm_int_al_ver.JPG*296,26
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.23/Rio_M_Fuji_205,23_Spm_ext_al_sup.JPG*205,23
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Ppb_int_al_cen.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/253.17/Rio_M_Fuji_253,17_Pgb_int_al_sup.JPG*253,17
+/home/jovyan/data/nextcloud/MANZANA/Golden/212,54/Rio_M_Golden_212,54_Ppb_ext_me_ver.jpg*212,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.28/Rio_M_Golden_251,28_Pgb_ext_me_cen.jpg*251,28
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/185,75/Mad_M_Granny Smith_185,75_Pgb_ext_al_ver.JPG*185,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Pgb_ext_me_ver.JPG*129,11
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Spb_int_me_cen.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Spb_ext_me_cen.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Golden/243.25/Rio_M_Golden_243,25_Ppb_ext_al_ver.jpg*243,25
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Spm_ext_ce_cen.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.14/Rio_M_Fuji_141,14_Spm_ext_ce_ver.JPG*141,14
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/178,97/Mad_M_Granny Smith_178,97_Ppb_int_ce_ver.JPG*178,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/286.43/Rio_M_Fuji_286,43_Pgb_int_me_cen.JPG*286,43
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.42/Rio_M_Golden_251,42_Pgb_int_ce_sup.jpg*251,42
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/185,75/Mad_M_Granny Smith_185,75_Pgb_int_ce_cen.JPG*185,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Pgb_ext_me_sup.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Ppb_ext_me_sup.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Spm_ext_me_cen.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Spm_int_ce_sup.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/144.23/Rio_M_Fuji_144,23_Spm_int_me_cen.JPG*144,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/247.14/Rio_M_Golden_247,14_Spb_int_me_ver.jpg*247,14
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/246,38/Mad_M_Granny Smith_246,38_Pgb_int_ce_cen.JPG*246,38
+/home/jovyan/data/nextcloud/MANZANA/Fuji/248.73/Rio_M_Fuji_248,73_Ppb_int_ce_sup.JPG*248,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,09/Rio_M_Golden_196,09_Spb_int_me_cen.jpg*196,09
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Spb_ext_al_ver.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Spm_ext_ce_ver.JPG*307,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Spm_ext_al_sup.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Fuji/134.15/Rio_M_Fuji_134,15_Ppb_int_me_ver.jpg*134,15
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Ppb_int_me_sup.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.92/Rio_M_Golden_143,92_Spb_int_al_sup.jpg*143,92
+/home/jovyan/data/nextcloud/MANZANA/Golden/204,04/Rio_M_Golden_204,04_Spm_int_ce_ver.jpg*204,04
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Ppb_int_me_cen.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Fuji/285.75/Rio_M_Fuji_285,75_Spm_int_al_ver.JPG*285,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Spb_int_al_ver.jpg*307,11
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/173,76/Mad_M_Granny Smith_173,76_Ppb_int_al_cen.JPG*173,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/221.75/Rio_M_Fuji_221,75_Pgb_ext_al_sup.JPG*221,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/145.59/Rio_M_Fuji_145,59_Spm_int_me_sup.JPG*145,59
+/home/jovyan/data/nextcloud/MANZANA/Fuji/199.97/Rio_M_Fuji_199,97_Spm_int_me_sup.JPG*199,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Ppb_int_ce_ver.JPG*282,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/210.58/Rio_M_Fuji_210,58_Spm_ext_ce_cen.JPG*210,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.74/Rio_M_Golden_143,74_Ppb_int_me_sup.jpg*143,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/188.92/Rio_M_Golden_188,92_Spm_ext_al_ver.jpg*188,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/136.37/Rio_M_Fuji_136,37_Spb_int_al_cen.JPG*136,37
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Ppb_int_al_sup.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Ppb_ext_al_sup.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Spm_ext_al_sup.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Pgb_int_al_ver.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.05/Rio_M_Fuji_296,05_Ppb_int_al_sup.JPG*296,05
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Spb_ext_al_ver.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/204,04/Rio_M_Golden_204,04_Ppb_int_ce_sup.jpg*204,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/197.79/Rio_M_Fuji_197,79_Ppb_int_al_ver.JPG*197,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/204,04/Rio_M_Golden_204,04_Ppb_int_me_sup.jpg*204,04
+/home/jovyan/data/nextcloud/MANZANA/Golden/243.25/Rio_M_Golden_243,25_Pgb_ext_me_ver.jpg*243,25
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Spb_int_al_cen.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Pgb_ext_al_cen.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.80/Rio_M_Fuji_198,80_Spm_int_al_sup.JPG*198,80
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/191,4/Mad_M_Granny Smith_191,4_Pgb_int_ce_sup.JPG*191,4
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.04/Rio_M_Fuji_211,04_Ppb_int_ce_ver.JPG*211,04
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/178,97/Mad_M_Granny Smith_178,97_Spb_int_me_sup.JPG*178,97
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/160,94/Mad_M_Granny Smith_160,94_Spb_int_me_cen.JPG*160,94
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.05/Rio_M_Fuji_296,05_Spb_ext_me_cen.JPG*296,05
+/home/jovyan/data/nextcloud/MANZANA/Fuji/210.58/Rio_M_Fuji_210,58_Spm_int_ce_ver.JPG*210,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/210.58/Rio_M_Fuji_210,58_Pgb_int_me_sup.JPG*210,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/290.25/Rio_M_Fuji_290,25_Ppb_ext_ce_sup.JPG*290,25
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Ppb_ext_al_sup.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Ppb_ext_al_ver.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,65/Mad_M_Granny Smith_174,65_Spm_ext_al_cen.JPG*174,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Spm_ext_ce_sup.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Spm_ext_ce_cen.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Pgb_ext_al_sup.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Golden/190,49/Rio_M_Golden_190,49_Spm_ext_ce_sup.jpg*190,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/204.75/Rio_M_Fuji_204,75_Spm_int_me_cen.JPG*204,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Pgb_ext_al_sup.JPG*129,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Ppb_ext_me_ver.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,68/Rio_M_Golden_196,68_Spm_ext_me_sup.jpg*196,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/144.23/Rio_M_Fuji_144,23_Spm_int_al_ver.JPG*144,23
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Spb_int_ce_sup.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/183,96/Mad_M_Granny Smith_183,96_Spb_int_ce_ver.JPG*183,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Ppb_int_al_sup.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/232.49/Rio_M_Golden_232,49_Ppb_ext_ce_ver.jpg*232,49
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Spm_int_me_sup.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,65/Mad_M_Granny Smith_174,65_Spb_int_al_sup.JPG*174,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Spm_int_me_ver.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Fuji/280.70/Rio_M_Fuji_280,70_Ppb_int_al_ver.JPG*280,70
+/home/jovyan/data/nextcloud/MANZANA/Golden/151.61/Rio_M_Golden_151,61_Ppb_ext_ce_cen.jpg*151,61
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Spm_int_ce_sup.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Spb_ext_me_cen.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Spb_ext_ce_sup.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/204.75/Rio_M_Fuji_204,75_Spm_ext_me_ver.JPG*204,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Ppb_ext_me_ver.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/188,51/Mad_M_Granny Smith_188,51_Spm_ext_al_ver.JPG*188,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Pgb_ext_al_sup.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Fuji/269.93/Rio_M_Fuji_269,93_Ppb_ext_ce_cen.JPG*269,93
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/160,94/Mad_M_Granny Smith_160,94_Pgb_int_ce_cen.JPG*160,94
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Pgb_int_ce_sup.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,65/Mad_M_Granny Smith_174,65_Spm_ext_me_sup.JPG*174,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Pgb_int_ce_cen.JPG*282,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/285.75/Rio_M_Fuji_285,75_Spb_ext_ce_sup.JPG*285,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Spb_int_ce_ver.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Spm_int_al_cen.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/246.49/Rio_M_Golden_246,49_Ppb_int_me_cen.jpg*246,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/197.79/Rio_M_Fuji_197,79_Spb_int_al_cen.JPG*197,79
+/home/jovyan/data/nextcloud/MANZANA/Fuji/142.70/Rio_M_Fuji_142,70_Ppb_int_me_cen.jpg*142,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Spb_ext_ce_cen.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,76/Mad_M_Granny Smith_174,76_Spm_int_me_cen.JPG*174,76
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Pgb_ext_me_sup.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Golden/232.49/Rio_M_Golden_232,49_Spm_ext_al_sup.jpg*232,49
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.74/Rio_M_Golden_143,74_Ppb_int_ce_sup.jpg*143,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Spb_int_ce_ver.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Pgb_ext_me_cen.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Spb_int_me_sup.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Spb_int_me_ver.jpg*268,98
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Spb_ext_me_cen.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Fuji/273.78/Rio_M_Fuji_273,78_Pgb_int_me_sup.JPG*273,78
+/home/jovyan/data/nextcloud/MANZANA/Fuji/197.79/Rio_M_Fuji_197,79_Spm_int_al_ver.JPG*197,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Pgb_ext_al_sup.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Golden/185.73/Rio_M_Golden_185,73_Pgb_int_ce_cen.jpg*185,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/248.73/Rio_M_Fuji_248,73_Pgb_ext_me_ver.JPG*248,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.05/Rio_M_Fuji_296,05_Spb_int_ce_ver.jpg*296,05
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Spb_int_ce_sup.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Fuji/145.59/Rio_M_Fuji_145,59_Pgb_int_me_sup.JPG*145,59
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Ppb_int_al_cen.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/191,4/Mad_M_Granny Smith_191,4_Pgb_int_al_sup.JPG*191,4
+/home/jovyan/data/nextcloud/MANZANA/Golden/193,12/Rio_M_Golden_193,12_Ppb_int_al_sup.jpg*193,12
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/246,38/Mad_M_Granny Smith_246,38_Ppb_ext_ce_sup.JPG*246,38
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/173,76/Mad_M_Granny Smith_173,76_Spm_ext_al_cen.JPG*173,76
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.40/Rio_M_Golden_186,4_Pgb_ext_al_cen.jpg*186,4
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Spm_int_me_cen.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/188,51/Mad_M_Granny Smith_188,51_Spb_ext_al_cen.JPG*188,51
+/home/jovyan/data/nextcloud/MANZANA/Fuji/134.15/Rio_M_Fuji_134,15_Pgb_ext_al_ver.JPG*134,15
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.83/Rio_M_Fuji_205,83_Spb_ext_ce_sup.JPG*205,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Spm_int_ce_sup.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.28/Rio_M_Golden_251,28_Spb_ext_al_sup.jpg*251,28
+/home/jovyan/data/nextcloud/MANZANA/Golden/243.25/Rio_M_Golden_243,25_Spm_int_ce_sup.jpg*243,25
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Spm_int_ce_cen.JPG*307,11
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Ppb_int_me_sup.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Spm_int_ce_cen.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Pgb_ext_ce_sup.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/185,75/Mad_M_Granny Smith_185,75_Pgb_ext_me_ver.JPG*185,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Ppb_ext_ce_cen.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Pgb_ext_me_sup.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Ppb_int_ce_cen.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Golden/243.25/Rio_M_Golden_243,25_Spb_ext_me_ver.jpg*243,25
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spm_ext_al_cen.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.14/Rio_M_Fuji_141,14_Pgb_int_me_cen.JPG*141,14
+/home/jovyan/data/nextcloud/MANZANA/Golden/139.04/Rio_M_Golden_139,04_Spm_int_ce_ver.jpg*139,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Spm_ext_ce_cen.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Pgb_int_me_ver.JPG*282,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/207,98/Rio_M_Golden_207,98_Pgb_int_me_cen.jpg*207,98
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Spb_ext_al_ver.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Pgb_ext_al_ver.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Ppb_ext_ce_ver.JPG*268,98
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Spm_ext_al_ver.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Golden/146.22/Rio_M_Golden_146,22_Spb_int_me_cen.jpg*146,22
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Ppb_int_al_cen.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Fuji/136.37/Rio_M_Fuji_136,37_Spm_int_al_ver.JPG*136,37
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.58/Rio_M_Golden_242,58_Ppb_int_al_sup.jpg*242,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/185.73/Rio_M_Golden_185,73_Spm_ext_me_cen.jpg*185,73
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/183,96/Mad_M_Granny Smith_183,96_Spm_int_ce_cen.JPG*183,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Pgb_int_al_sup.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spm_ext_al_sup.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/273.78/Rio_M_Fuji_273,78_Ppb_int_ce_sup.JPG*273,78
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/184,31/Mad_M_Granny Smith_184,31_Spb_int_al_sup.JPG*184,31
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.09/Rio_M_Golden_134,09_Spb_ext_ce_sup.jpg*134,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/139.04/Rio_M_Golden_139,04_Pgb_ext_me_sup.jpg*139,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/136.37/Rio_M_Fuji_136,37_Ppb_int_me_ver.jpg*136,37
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Ppb_int_me_ver.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,68/Rio_M_Golden_196,68_Spm_int_al_sup.jpg*196,68
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.58/Rio_M_Golden_242,58_Ppb_int_me_ver.jpg*242,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/160.95/Rio_M_Golden_160,95_Ppb_int_ce_sup.jpg*160,95
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.26/Rio_M_Golden_251,26_Pgb_int_ce_ver.jpg*251,26
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/171,74/Mad_M_Granny Smith_171,74_Spb_ext_al_cen.JPG*171,74
+/home/jovyan/data/nextcloud/MANZANA/Fuji/210.58/Rio_M_Fuji_210,58_Pgb_ext_ce_ver.JPG*210,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Spb_ext_al_sup.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Pgb_ext_al_sup.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Golden/232.49/Rio_M_Golden_232,49_Ppb_ext_me_cen.jpg*232,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/196.38/Rio_M_Fuji_196,38_Ppb_int_al_ver.JPG*196,38
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Pgb_int_ce_sup.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Pgb_ext_al_ver.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.42/Rio_M_Golden_251,42_Spm_int_al_cen.jpg*251,42
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Ppb_ext_me_sup.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/179.79/Rio_M_Golden_179,79_Pgb_ext_me_sup.jpg*179,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Ppb_int_me_sup.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/180,13/Mad_M_Granny Smith_180,13_Ppb_ext_al_cen.JPG*180,13
+/home/jovyan/data/nextcloud/MANZANA/Fuji/136.37/Rio_M_Fuji_136,37_Ppb_int_al_sup.jpg*136,37
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,09/Rio_M_Golden_196,09_Ppb_int_me_cen.jpg*196,09
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Spm_ext_al_cen.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Spm_int_me_sup.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.14/Rio_M_Fuji_265,14_Pgb_ext_al_sup.JPG*265,14
+/home/jovyan/data/nextcloud/MANZANA/Golden/243.25/Rio_M_Golden_243,25_Ppb_int_me_cen.jpg*243,25
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Pgb_int_me_ver.JPG*296,26
+/home/jovyan/data/nextcloud/MANZANA/Fuji/206.85/Rio_M_Fuji_206,85_Spm_ext_al_sup.JPG*206,85
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/160,94/Mad_M_Granny Smith_160,94_Spm_ext_al_sup.JPG*160,94
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.42/Rio_M_Golden_251,42_Ppb_ext_ce_cen.jpg*251,42
+/home/jovyan/data/nextcloud/MANZANA/Fuji/145.59/Rio_M_Fuji_145,59_Ppb_ext_ce_sup.JPG*145,59
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.92/Rio_M_Golden_143,92_Ppb_ext_al_sup.jpg*143,92
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Pgb_int_al_ver.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Pgb_ext_me_sup.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/146.54/Rio_M_Fuji_146,54_Spm_ext_ce_ver.JPG*146,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Spm_ext_ce_cen.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Spb_int_me_ver.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Spm_ext_me_cen.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Spm_int_me_ver.JPG*282,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.14/Rio_M_Fuji_265,14_Ppb_ext_al_cen.JPG*265,14
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Ppb_int_ce_ver.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/196.38/Rio_M_Fuji_196,38_Spm_ext_ce_sup.JPG*196,38
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.42/Rio_M_Golden_251,42_Pgb_int_al_cen.jpg*251,42
+/home/jovyan/data/nextcloud/MANZANA/Fuji/145.59/Rio_M_Fuji_145,59_Spb_int_ce_ver.JPG*145,59
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Ppb_ext_al_sup.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,65/Mad_M_Granny Smith_174,65_Spb_int_me_cen.JPG*174,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,68/Rio_M_Golden_196,68_Spm_ext_al_cen.jpg*196,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/306.67/Rio_M_Fuji_306,67_Spm_int_ce_sup.JPG*306,67
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/229,43/Mad_M_Granny Smith_229,43_Ppb_ext_me_sup.JPG*229,43
+/home/jovyan/data/nextcloud/MANZANA/Golden/139.04/Rio_M_Golden_139,04_Spb_ext_me_ver.jpg*139,04
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.40/Rio_M_Golden_186,4_Spb_ext_me_ver.jpg*186,4
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.92/Rio_M_Golden_143,92_Spm_int_ce_ver.jpg*143,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.14/Rio_M_Fuji_141,14_Spb_int_ce_sup.JPG*141,14
+/home/jovyan/data/nextcloud/MANZANA/Fuji/199.97/Rio_M_Fuji_199,97_Pgb_int_me_ver.JPG*199,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/199.97/Rio_M_Fuji_199,97_Ppb_ext_ce_sup.JPG*199,97
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Pgb_ext_ce_cen.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Fuji/278.45/Rio_M_Fuji_278,45_Spm_int_me_ver.JPG*278,45
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.00/Rio_M_Golden_127_Pgb_ext_ce_cen.jpg*127
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spm_int_me_cen.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.14/Rio_M_Fuji_265,14_Spb_int_ce_ver.jpg*265,14
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/191,4/Mad_M_Granny Smith_191,4_Spb_int_ce_sup.JPG*191,4
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Spm_int_al_cen.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.09/Rio_M_Golden_134,09_Spb_int_ce_cen.jpg*134,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/212,54/Rio_M_Golden_212,54_Spm_ext_me_cen.jpg*212,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/199.97/Rio_M_Fuji_199,97_Pgb_ext_me_ver.JPG*199,97
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Spb_int_me_ver.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Spb_ext_al_cen.JPG*268,98
+/home/jovyan/data/nextcloud/MANZANA/Fuji/150.25/Rio_M_Fuji_150,25_Spm_ext_ce_cen.JPG*150,25
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Ppb_ext_al_ver.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/210.58/Rio_M_Fuji_210,58_Spm_ext_me_cen.JPG*210,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.04/Rio_M_Fuji_211,04_Spm_int_al_cen.JPG*211,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Ppb_ext_ce_cen.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/197.79/Rio_M_Fuji_197,79_Spb_ext_al_ver.JPG*197,79
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/260,40/Mad_M_Granny Smith_260,40_Ppb_int_al_ver.JPG*260,40
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/178,97/Mad_M_Granny Smith_178,97_Pgb_int_ce_sup.JPG*178,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Ppb_int_al_ver.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Spm_int_ce_sup.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Spm_int_ce_ver.JPG*307,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/250.75/Rio_M_Golden_250,75_Spb_ext_ce_cen.jpg*250,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,09/Rio_M_Golden_196,09_Ppb_ext_me_cen.jpg*196,09
+/home/jovyan/data/nextcloud/MANZANA/Fuji/199.97/Rio_M_Fuji_199,97_Pgb_int_ce_cen.JPG*199,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Ppb_int_ce_sup.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Golden/202,84/Rio_M_Golden_202,84_Spm_ext_al_cen.jpg*202,84
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.00/Rio_M_Golden_127_Ppb_int_ce_ver.jpg*127
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Pgb_ext_ce_sup.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/221.75/Rio_M_Fuji_221,75_Pgb_ext_al_ver.JPG*221,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/139.04/Rio_M_Golden_139,04_Spm_int_ce_sup.jpg*139,04
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/229,43/Mad_M_Granny Smith_229,43_Ppb_int_me_sup.JPG*229,43
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/188,51/Mad_M_Granny Smith_188,51_Ppb_int_ce_ver.JPG*188,51
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/171,74/Mad_M_Granny Smith_171,74_Ppb_int_ce_cen.JPG*171,74
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Spm_ext_al_cen.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/229,43/Mad_M_Granny Smith_229,43_Ppb_int_me_ver.JPG*229,43
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Spm_ext_me_ver.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Spb_int_me_sup.jpg*296,26
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.26/Rio_M_Golden_251,26_Spm_int_al_sup.jpg*251,26
+/home/jovyan/data/nextcloud/MANZANA/Fuji/196.38/Rio_M_Fuji_196,38_Ppb_int_al_sup.JPG*196,38
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/171,74/Mad_M_Granny Smith_171,74_Ppb_int_al_ver.JPG*171,74
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Spm_ext_me_ver.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Pgb_ext_me_cen.JPG*307,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Ppb_int_me_sup.jpg*129,84
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Spb_int_al_sup.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Pgb_ext_me_cen.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Fuji/142.70/Rio_M_Fuji_142,70_Pgb_int_me_ver.JPG*142,70
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Pgb_int_al_ver.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/151.61/Rio_M_Golden_151,61_Pgb_ext_me_ver.jpg*151,61
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Pgb_int_me_sup.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Spb_int_al_sup.jpg*307,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/246.49/Rio_M_Golden_246,49_Ppb_ext_ce_sup.jpg*246,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/152.73/Rio_M_Fuji_152,73_Spb_int_ce_cen.JPG*152,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Pgb_int_al_cen.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/188,51/Mad_M_Granny Smith_188,51_Spm_ext_ce_cen.JPG*188,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/232.49/Rio_M_Golden_232,49_Spm_int_ce_ver.jpg*232,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/144.23/Rio_M_Fuji_144,23_Spm_int_al_cen.JPG*144,23
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.14/Rio_M_Fuji_265,14_Spb_int_al_ver.jpg*265,14
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.80/Rio_M_Fuji_198,80_Spb_int_ce_ver.JPG*198,80
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Spm_int_ce_cen.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.03/Rio_M_Fuji_201,03_Spb_ext_ce_sup.JPG*201,03
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Pgb_int_ce_cen.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/183,96/Mad_M_Granny Smith_183,96_Spb_ext_al_cen.JPG*183,96
+/home/jovyan/data/nextcloud/MANZANA/Fuji/202.21/Rio_M_Fuji_202,21_Spm_int_ce_sup.JPG*202,21
+/home/jovyan/data/nextcloud/MANZANA/Golden/259.60/Rio_M_Golden_259,6_Spm_int_ce_sup.jpg*259,6
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Spm_int_al_ver.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/197.79/Rio_M_Fuji_197,79_Spb_int_ce_sup.JPG*197,79
+/home/jovyan/data/nextcloud/MANZANA/Fuji/221.75/Rio_M_Fuji_221,75_Spb_int_me_cen.JPG*221,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/232.49/Rio_M_Golden_232,49_Spb_ext_ce_ver.jpg*232,49
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.92/Rio_M_Golden_143,92_Pgb_int_ce_sup.jpg*143,92
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Spm_int_al_cen.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Spm_int_ce_cen.JPG*296,26
+/home/jovyan/data/nextcloud/MANZANA/Fuji/221.75/Rio_M_Fuji_221,75_Pgb_int_me_cen.JPG*221,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Pgb_int_me_sup.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Ppb_int_al_cen.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/150.25/Rio_M_Fuji_150,25_Spb_int_al_cen.JPG*150,25
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/209,01/Mad_M_Granny Smith_209,01_Ppb_int_me_ver.JPG*209,01
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Pgb_ext_me_cen.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/178,97/Mad_M_Granny Smith_178,97_Ppb_ext_ce_ver.JPG*178,97
+/home/jovyan/data/nextcloud/MANZANA/Golden/193,12/Rio_M_Golden_193,12_Spb_ext_al_sup.jpg*193,12
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Spb_ext_al_ver.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Spm_int_ce_ver.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/184,31/Mad_M_Granny Smith_184,31_Spm_ext_al_ver.JPG*184,31
+/home/jovyan/data/nextcloud/MANZANA/Golden/185.73/Rio_M_Golden_185,73_Pgb_int_al_cen.jpg*185,73
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Pgb_int_ce_cen.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Spb_ext_al_cen.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.58/Rio_M_Fuji_132,58_Ppb_ext_me_sup.JPG*132,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/232.49/Rio_M_Golden_232,49_Pgb_ext_al_ver.jpg*232,49
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Pgb_int_ce_sup.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/171,74/Mad_M_Granny Smith_171,74_Spm_ext_ce_ver.JPG*171,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Pgb_int_me_ver.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,76/Mad_M_Granny Smith_174,76_Spm_ext_ce_cen.JPG*174,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Spb_ext_ce_ver.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Pgb_int_ce_ver.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Ppb_int_al_sup.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/178,97/Mad_M_Granny Smith_178,97_Spm_int_me_sup.JPG*178,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/204.75/Rio_M_Fuji_204,75_Pgb_ext_al_ver.JPG*204,75
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/260,40/Mad_M_Granny Smith_260,40_Spm_int_me_ver.JPG*260,40
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.92/Rio_M_Golden_134,92_Spb_int_al_ver.jpg*134,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/248.73/Rio_M_Fuji_248,73_Ppb_int_al_sup.JPG*248,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Spm_ext_al_ver.JPG*129,84
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Ppb_ext_al_cen.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Spm_int_al_ver.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Pgb_ext_ce_cen.JPG*282,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/196.38/Rio_M_Fuji_196,38_Spm_int_ce_cen.JPG*196,38
+/home/jovyan/data/nextcloud/MANZANA/Golden/243.25/Rio_M_Golden_243,25_Spb_int_al_cen.jpg*243,25
+/home/jovyan/data/nextcloud/MANZANA/Fuji/269.93/Rio_M_Fuji_269,93_Ppb_ext_al_ver.JPG*269,93
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/178,97/Mad_M_Granny Smith_178,97_Ppb_ext_ce_cen.JPG*178,97
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/160,94/Mad_M_Granny Smith_160,94_Ppb_ext_al_sup.JPG*160,94
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.24/Rio_M_Fuji_198,24_Spm_int_ce_ver.JPG*198,24
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.83/Rio_M_Fuji_205,83_Spm_int_me_ver.JPG*205,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Spb_ext_ce_cen.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/212,54/Rio_M_Golden_212,54_Pgb_int_al_cen.jpg*212,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/142.70/Rio_M_Fuji_142,70_Spm_int_ce_cen.JPG*142,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/273.78/Rio_M_Fuji_273,78_Pgb_ext_me_cen.JPG*273,78
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Spm_int_ce_cen.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Spm_ext_ce_ver.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Spb_int_me_cen.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.92/Rio_M_Golden_143,92_Pgb_ext_al_cen.jpg*143,92
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.00/Rio_M_Golden_127_Ppb_ext_al_ver.jpg*127
+/home/jovyan/data/nextcloud/MANZANA/Fuji/278.45/Rio_M_Fuji_278,45_Spb_ext_ce_cen.JPG*278,45
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Pgb_ext_ce_ver.JPG*129,84
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spm_ext_ce_ver.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.40/Rio_M_Golden_186,4_Pgb_int_ce_ver.jpg*186,4
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Ppb_int_me_cen.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Pgb_ext_me_ver.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spm_ext_ce_sup.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/191,83/Rio_M_Golden_191,83_Spb_ext_al_sup.jpg*191,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Spb_ext_me_ver.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.26/Rio_M_Golden_251,26_Ppb_ext_ce_cen.jpg*251,26
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Pgb_ext_ce_ver.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Fuji/285.75/Rio_M_Fuji_285,75_Spm_ext_me_cen.JPG*285,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Pgb_int_me_sup.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Fuji/273.78/Rio_M_Fuji_273,78_Ppb_int_me_cen.JPG*273,78
+/home/jovyan/data/nextcloud/MANZANA/Fuji/146.54/Rio_M_Fuji_146,54_Ppb_int_al_cen.jpg*146,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/146.54/Rio_M_Fuji_146,54_Spm_ext_al_sup.JPG*146,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/160.95/Rio_M_Golden_160,95_Spb_int_ce_cen.jpg*160,95
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Spb_ext_me_ver.JPG*268,98
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/191,4/Mad_M_Granny Smith_191,4_Spb_int_ce_cen.JPG*191,4
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.10/Rio_M_Golden_127,1_Ppb_int_ce_cen.jpg*127,1
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.26/Rio_M_Golden_251,26_Pgb_int_ce_cen.jpg*251,26
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Spm_ext_ce_ver.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Spm_ext_al_ver.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.80/Rio_M_Fuji_198,80_Pgb_ext_me_cen.JPG*198,80
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.74/Rio_M_Golden_143,74_Spm_ext_ce_ver.jpg*143,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Ppb_ext_me_ver.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.58/Rio_M_Fuji_132,58_Pgb_int_me_cen.JPG*132,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Spm_int_al_cen.JPG*296,26
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.99/Rio_M_Fuji_141,99_Ppb_ext_al_cen.JPG*141,99
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.10/Rio_M_Golden_127,1_Spm_ext_me_sup.jpg*127,1
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Ppb_ext_al_ver.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Pgb_int_al_ver.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Fuji/280.70/Rio_M_Fuji_280,70_Pgb_ext_me_ver.JPG*280,70
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/171,74/Mad_M_Granny Smith_171,74_Spb_ext_me_cen.JPG*171,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/246.49/Rio_M_Golden_246,49_Ppb_int_al_ver.jpg*246,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/253.17/Rio_M_Fuji_253,17_Ppb_ext_me_sup.JPG*253,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.23/Rio_M_Fuji_205,23_Pgb_ext_me_ver.JPG*205,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Spm_int_ce_cen.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/191,83/Rio_M_Golden_191,83_Spm_int_al_ver.jpg*191,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.42/Rio_M_Golden_251,42_Spm_ext_me_sup.jpg*251,42
+/home/jovyan/data/nextcloud/MANZANA/Fuji/142.70/Rio_M_Fuji_142,70_Ppb_ext_ce_sup.JPG*142,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.24/Rio_M_Fuji_198,24_Ppb_ext_ce_sup.JPG*198,24
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Spm_ext_ce_cen.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Ppb_int_ce_sup.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.92/Rio_M_Golden_134,92_Pgb_ext_ce_ver.jpg*134,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/157.36/Rio_M_Fuji_157,36_Pgb_ext_ce_sup.JPG*157,36
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Ppb_ext_ce_sup.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Golden/246.49/Rio_M_Golden_246,49_Spm_ext_al_sup.jpg*246,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Spb_int_ce_ver.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.24/Rio_M_Fuji_198,24_Ppb_int_me_sup.JPG*198,24
+/home/jovyan/data/nextcloud/MANZANA/Golden/160.95/Rio_M_Golden_160,95_Spm_ext_me_sup.jpg*160,95
+/home/jovyan/data/nextcloud/MANZANA/Golden/185.73/Rio_M_Golden_185,73_Spb_ext_me_sup.jpg*185,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/212,54/Rio_M_Golden_212,54_Spb_ext_ce_cen.jpg*212,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/212,54/Rio_M_Golden_212,54_Spb_ext_al_cen.jpg*212,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/280.70/Rio_M_Fuji_280,70_Ppb_ext_al_cen.JPG*280,70
+/home/jovyan/data/nextcloud/MANZANA/Golden/247.65/Rio_M_Golden_247,65_Ppb_int_ce_sup.jpg*247,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Spb_int_ce_cen.jpg*282,83
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/229,43/Mad_M_Granny Smith_229,43_Spb_int_ce_cen.JPG*229,43
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Spb_int_me_ver.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/178,97/Mad_M_Granny Smith_178,97_Pgb_int_ce_ver.JPG*178,97
+/home/jovyan/data/nextcloud/MANZANA/Golden/232.49/Rio_M_Golden_232,49_Spb_ext_al_ver.jpg*232,49
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Ppb_ext_me_ver.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Spb_ext_ce_sup.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Spm_int_ce_cen.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.04/Rio_M_Fuji_211,04_Spm_ext_al_ver.JPG*211,04
+/home/jovyan/data/nextcloud/MANZANA/Golden/151.61/Rio_M_Golden_151,61_Spb_ext_me_cen.jpg*151,61
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Pgb_ext_al_sup.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Golden/172.20/Rio_M_Golden_172,2_Ppb_ext_al_ver.jpg*172,2
+/home/jovyan/data/nextcloud/MANZANA/Golden/188.92/Rio_M_Golden_188,92_Spb_ext_me_sup.jpg*188,92
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Ppb_ext_al_sup.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.90/Rio_M_Golden_177,9_Pgb_ext_me_sup.jpg*177,9
+/home/jovyan/data/nextcloud/MANZANA/Golden/204,04/Rio_M_Golden_204,04_Pgb_ext_al_sup.jpg*204,04
+/home/jovyan/data/nextcloud/MANZANA/Golden/146.22/Rio_M_Golden_146,22_Ppb_int_ce_sup.jpg*146,22
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/173,76/Mad_M_Granny Smith_173,76_Ppb_ext_me_ver.JPG*173,76
+/home/jovyan/data/nextcloud/MANZANA/Fuji/290.25/Rio_M_Fuji_290,25_Spm_ext_me_ver.JPG*290,25
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.26/Rio_M_Golden_251,26_Spm_ext_al_cen.jpg*251,26
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Spm_int_ce_cen.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Golden/258.65/Rio_M_Golden_258,65_Pgb_ext_me_ver.jpg*258,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/259.60/Rio_M_Golden_259,6_Pgb_int_ce_sup.jpg*259,6
+/home/jovyan/data/nextcloud/MANZANA/Golden/146.22/Rio_M_Golden_146,22_Spm_int_ce_sup.jpg*146,22
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/171,74/Mad_M_Granny Smith_171,74_Spm_ext_al_sup.JPG*171,74
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Pgb_ext_ce_sup.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spb_ext_ce_sup.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Fuji/152.73/Rio_M_Fuji_152,73_Pgb_ext_al_ver.JPG*152,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spm_ext_al_cen.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/207,98/Rio_M_Golden_207,98_Pgb_ext_ce_sup.jpg*207,98
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Ppb_ext_ce_cen.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.05/Rio_M_Fuji_296,05_Ppb_ext_me_ver.JPG*296,05
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Spm_int_ce_sup.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.00/Rio_M_Golden_127_Ppb_int_me_cen.jpg*127
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Ppb_ext_ce_sup.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Spb_ext_al_cen.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.04/Rio_M_Fuji_211,04_Ppb_int_al_ver.JPG*211,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Pgb_ext_al_sup.JPG*282,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/190,49/Rio_M_Golden_190,49_Pgb_ext_al_sup.jpg*190,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/253.17/Rio_M_Fuji_253,17_Spm_ext_me_ver.JPG*253,17
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Ppb_int_ce_cen.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/246.49/Rio_M_Golden_246,49_Ppb_int_ce_cen.jpg*246,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/221.75/Rio_M_Fuji_221,75_Spb_int_me_ver.JPG*221,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/202.21/Rio_M_Fuji_202,21_Spb_int_ce_cen.JPG*202,21
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Spb_int_ce_sup.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.58/Rio_M_Golden_242,58_Pgb_int_me_cen.jpg*242,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Spm_int_ce_ver.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.14/Rio_M_Fuji_141,14_Spm_ext_al_sup.JPG*141,14
+/home/jovyan/data/nextcloud/MANZANA/Fuji/278.45/Rio_M_Fuji_278,45_Ppb_int_al_sup.JPG*278,45
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Spb_ext_al_sup.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.58/Rio_M_Golden_242,58_Ppb_ext_ce_sup.jpg*242,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Ppb_ext_al_ver.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.00/Rio_M_Golden_127_Spm_ext_ce_ver.jpg*127
+/home/jovyan/data/nextcloud/MANZANA/Golden/258.65/Rio_M_Golden_258,65_Spm_ext_al_cen.jpg*258,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Spb_int_al_sup.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Spb_ext_me_sup.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Golden/207,98/Rio_M_Golden_207,98_Spm_int_me_ver.jpg*207,98
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Ppb_int_ce_cen.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.03/Rio_M_Fuji_201,03_Spm_ext_ce_ver.JPG*201,03
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Ppb_int_al_sup.jpg*108,63
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Spb_int_ce_ver.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Ppb_ext_me_cen.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.24/Rio_M_Fuji_198,24_Ppb_ext_ce_ver.JPG*198,24
+/home/jovyan/data/nextcloud/MANZANA/Golden/179.79/Rio_M_Golden_179,79_Spb_int_ce_cen.jpg*179,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Spb_ext_me_sup.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/258.65/Rio_M_Golden_258,65_Pgb_int_al_cen.jpg*258,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/146.22/Rio_M_Golden_146,22_Ppb_int_me_cen.jpg*146,22
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Spb_ext_ce_sup.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.80/Rio_M_Fuji_132,80_Ppb_int_al_ver.jpg*132,80
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/184,31/Mad_M_Granny Smith_184,31_Spb_int_ce_sup.JPG*184,31
+/home/jovyan/data/nextcloud/MANZANA/Fuji/280.70/Rio_M_Fuji_280,70_Spb_int_ce_ver.jpg*280,70
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Ppb_int_al_ver.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Spm_ext_me_ver.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Spb_int_ce_cen.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/139.04/Rio_M_Golden_139,04_Ppb_ext_al_ver.jpg*139,04
+/home/jovyan/data/nextcloud/MANZANA/Golden/246.49/Rio_M_Golden_246,49_Spb_int_me_cen.jpg*246,49
+/home/jovyan/data/nextcloud/MANZANA/Golden/232.49/Rio_M_Golden_232,49_Ppb_ext_al_ver.jpg*232,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/206.85/Rio_M_Fuji_206,85_Spb_int_ce_cen.JPG*206,85
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/209,01/Mad_M_Granny Smith_209,01_Spm_ext_me_sup.JPG*209,01
+/home/jovyan/data/nextcloud/MANZANA/Fuji/320.09/Rio_M_Fuji_320,09_Spm_ext_al_sup.JPG*320,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.40/Rio_M_Golden_186,4_Spm_int_me_sup.jpg*186,4
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/183,96/Mad_M_Granny Smith_183,96_Pgb_ext_ce_ver.JPG*183,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Spm_ext_me_cen.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,09/Rio_M_Golden_196,09_Ppb_ext_al_cen.jpg*196,09
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Spm_int_me_ver.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.40/Rio_M_Golden_186,4_Spb_int_me_cen.jpg*186,4
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.74/Rio_M_Golden_143,74_Ppb_ext_ce_sup.jpg*143,74
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Spb_ext_me_ver.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Fuji/320.09/Rio_M_Fuji_320,09_Spb_ext_me_ver.JPG*320,09
+/home/jovyan/data/nextcloud/MANZANA/Fuji/215.90/Rio_M_Fuji_215,90_Pgb_ext_me_sup.JPG*215,90
+/home/jovyan/data/nextcloud/MANZANA/Fuji/157.36/Rio_M_Fuji_157,36_Spm_ext_al_ver.JPG*157,36
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Pgb_ext_al_cen.JPG*129,84
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/185,75/Mad_M_Granny Smith_185,75_Spm_int_ce_sup.JPG*185,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.24/Rio_M_Fuji_198,24_Pgb_int_me_cen.JPG*198,24
+/home/jovyan/data/nextcloud/MANZANA/Golden/258.65/Rio_M_Golden_258,65_Spm_ext_ce_ver.jpg*258,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Spm_int_al_ver.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Pgb_int_me_ver.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Fuji/204.75/Rio_M_Fuji_204,75_Ppb_ext_ce_ver.JPG*204,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.26/Rio_M_Fuji_296,26_Spb_int_ce_cen.jpg*296,26
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Spm_int_me_sup.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Pgb_ext_al_ver.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Spm_ext_ce_cen.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Pgb_ext_me_cen.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/134.15/Rio_M_Fuji_134,15_Spb_ext_ce_sup.JPG*134,15
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Ppb_int_ce_cen.jpg*129,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Pgb_int_ce_sup.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/253.17/Rio_M_Fuji_253,17_Pgb_ext_me_ver.JPG*253,17
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/209,01/Mad_M_Granny Smith_209,01_Pgb_int_ce_cen.JPG*209,01
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spm_ext_me_sup.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Spm_int_al_cen.JPG*129,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,68/Rio_M_Golden_196,68_Ppb_int_ce_ver.jpg*196,68
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Pgb_int_al_ver.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/132.80/Rio_M_Fuji_132,80_Spb_int_ce_cen.JPG*132,80
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Ppb_ext_ce_cen.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Spb_ext_al_sup.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Spb_ext_ce_sup.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Pgb_ext_me_ver.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/306.67/Rio_M_Fuji_306,67_Pgb_int_ce_sup.JPG*306,67
+/home/jovyan/data/nextcloud/MANZANA/Fuji/248.73/Rio_M_Fuji_248,73_Spm_int_ce_cen.JPG*248,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Spb_int_al_ver.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/246,38/Mad_M_Granny Smith_246,38_Spb_ext_me_cen.JPG*246,38
+/home/jovyan/data/nextcloud/MANZANA/Golden/191,83/Rio_M_Golden_191,83_Ppb_int_al_ver.jpg*191,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.14/Rio_M_Fuji_265,14_Pgb_int_ce_sup.JPG*265,14
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.26/Rio_M_Golden_251,26_Spb_ext_me_sup.jpg*251,26
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Spm_ext_al_ver.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.10/Rio_M_Fuji_198,10_Spm_ext_me_sup.JPG*198,10
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.08/Rio_M_Golden_242,08_Pgb_ext_me_ver.jpg*242,08
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Spb_int_me_sup.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/208.02/Rio_M_Fuji_208,02_Spb_int_al_cen.JPG*208,02
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.23/Rio_M_Fuji_205,23_Pgb_int_ce_sup.JPG*205,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/190,49/Rio_M_Golden_190,49_Spb_ext_al_sup.jpg*190,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/290.25/Rio_M_Fuji_290,25_Spb_int_al_ver.jpg*290,25
+/home/jovyan/data/nextcloud/MANZANA/Golden/240.16/Rio_M_Golden_240,16_Pgb_ext_al_sup.jpg*240,16
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Spb_ext_al_cen.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Spm_int_me_sup.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.24/Rio_M_Fuji_198,24_Ppb_ext_al_sup.JPG*198,24
+/home/jovyan/data/nextcloud/MANZANA/Fuji/248.73/Rio_M_Fuji_248,73_Spb_int_me_cen.jpg*248,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Spm_ext_ce_ver.JPG*268,98
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/173,76/Mad_M_Granny Smith_173,76_Pgb_ext_ce_sup.JPG*173,76
+/home/jovyan/data/nextcloud/MANZANA/Golden/204,04/Rio_M_Golden_204,04_Ppb_int_me_ver.jpg*204,04
+/home/jovyan/data/nextcloud/MANZANA/Fuji/286.43/Rio_M_Fuji_286,43_Ppb_ext_ce_ver.JPG*286,43
+/home/jovyan/data/nextcloud/MANZANA/Fuji/204.75/Rio_M_Fuji_204,75_Pgb_int_ce_ver.JPG*204,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spb_int_ce_sup.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/185,75/Mad_M_Granny Smith_185,75_Ppb_int_al_sup.JPG*185,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Spb_int_ce_ver.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Spm_ext_ce_sup.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Fuji/210.58/Rio_M_Fuji_210,58_Spb_ext_me_sup.JPG*210,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/269.93/Rio_M_Fuji_269,93_Pgb_int_ce_sup.JPG*269,93
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Spm_int_al_cen.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Ppb_int_ce_sup.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Pgb_ext_al_cen.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/240.16/Rio_M_Golden_240,16_Spm_ext_me_cen.jpg*240,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/146.02/Rio_M_Golden_146,02_Pgb_ext_me_sup.jpg*146,02
+/home/jovyan/data/nextcloud/MANZANA/Fuji/285.75/Rio_M_Fuji_285,75_Spb_ext_me_sup.JPG*285,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/146.54/Rio_M_Fuji_146,54_Pgb_int_me_ver.JPG*146,54
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Ppb_ext_ce_ver.JPG*129,84
+/home/jovyan/data/nextcloud/MANZANA/Fuji/196.38/Rio_M_Fuji_196,38_Spb_ext_me_cen.JPG*196,38
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,09/Rio_M_Golden_196,09_Spm_int_me_sup.jpg*196,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Spb_int_ce_ver.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Pgb_int_al_ver.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,65/Mad_M_Granny Smith_174,65_Spb_int_al_cen.JPG*174,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Ppb_int_me_ver.jpg*129,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Spb_ext_al_ver.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Ppb_ext_me_sup.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/180,13/Mad_M_Granny Smith_180,13_Spm_int_al_ver.JPG*180,13
+/home/jovyan/data/nextcloud/MANZANA/Fuji/269.93/Rio_M_Fuji_269,93_Pgb_int_me_ver.JPG*269,93
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Spb_int_ce_ver.jpg*307,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Spm_int_ce_sup.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Fuji/253.17/Rio_M_Fuji_253,17_Spb_ext_ce_ver.JPG*253,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Spb_int_me_sup.jpg*268,98
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Spb_ext_me_cen.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.10/Rio_M_Fuji_198,10_Pgb_ext_me_cen.JPG*198,10
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/240,23/Mad_M_Granny Smith_240,23_Ppb_int_me_ver.JPG*240,23
+/home/jovyan/data/nextcloud/MANZANA/Fuji/196.38/Rio_M_Fuji_196,38_Spb_int_ce_cen.JPG*196,38
+/home/jovyan/data/nextcloud/MANZANA/Fuji/157.36/Rio_M_Fuji_157,36_Pgb_int_me_ver.JPG*157,36
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.83/Rio_M_Fuji_205,83_Spm_ext_ce_cen.JPG*205,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spb_int_me_ver.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.11/Rio_M_Fuji_129,11_Ppb_ext_me_ver.JPG*129,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/188.92/Rio_M_Golden_188,92_Pgb_int_me_cen.jpg*188,92
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/235,42/Mad_M_Granny Smith_235,42_Spm_ext_me_cen.JPG*235,42
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Ppb_int_al_sup.jpg*129,84
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.14/Rio_M_Fuji_265,14_Pgb_ext_ce_cen.JPG*265,14
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/185,75/Mad_M_Granny Smith_185,75_Spm_int_ce_ver.JPG*185,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/282.83/Rio_M_Fuji_282,83_Pgb_ext_ce_ver.JPG*282,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Ppb_int_al_sup.jpg*109,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Ppb_int_me_sup.JPG*268,98
+/home/jovyan/data/nextcloud/MANZANA/Fuji/134.15/Rio_M_Fuji_134,15_Pgb_ext_ce_ver.JPG*134,15
+/home/jovyan/data/nextcloud/MANZANA/Fuji/134.15/Rio_M_Fuji_134,15_Ppb_ext_ce_ver.JPG*134,15
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.55/Rio_M_Golden_152,55_Ppb_ext_me_sup.jpg*152,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.83/Rio_M_Fuji_205,83_Spm_ext_al_sup.JPG*205,83
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Pgb_int_me_sup.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.43/Rio_M_Fuji_265,43_Spb_int_me_cen.jpg*265,43
+/home/jovyan/data/nextcloud/MANZANA/Fuji/271.68/Rio_M_Fuji_271,68_Pgb_ext_me_sup.JPG*271,68
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Spb_ext_ce_cen.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Spm_ext_al_cen.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Pgb_int_me_cen.JPG*268,98
+/home/jovyan/data/nextcloud/MANZANA/Fuji/296.05/Rio_M_Fuji_296,05_Pgb_ext_al_ver.JPG*296,05
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.10/Rio_M_Fuji_198,10_Pgb_int_al_ver.JPG*198,10
+/home/jovyan/data/nextcloud/MANZANA/Fuji/206.85/Rio_M_Fuji_206,85_Spm_int_me_cen.JPG*206,85
+/home/jovyan/data/nextcloud/MANZANA/Golden/196,09/Rio_M_Golden_196,09_Spm_ext_me_cen.jpg*196,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Spm_int_ce_cen.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Spb_ext_me_cen.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Spm_ext_al_cen.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.10/Rio_M_Fuji_198,10_Pgb_int_al_sup.JPG*198,10
+/home/jovyan/data/nextcloud/MANZANA/Fuji/196.38/Rio_M_Fuji_196,38_Pgb_int_ce_cen.JPG*196,38
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Spb_int_me_sup.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/191,4/Mad_M_Granny Smith_191,4_Spb_int_me_cen.JPG*191,4
+/home/jovyan/data/nextcloud/MANZANA/Fuji/198.24/Rio_M_Fuji_198,24_Spm_int_ce_cen.JPG*198,24
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/243,74/Mad_M_Granny Smith_243,74_Spm_ext_ce_sup.JPG*243,74
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/183,96/Mad_M_Granny Smith_183,96_Spm_int_ce_ver.JPG*183,96
+/home/jovyan/data/nextcloud/MANZANA/Fuji/202.21/Rio_M_Fuji_202,21_Spm_int_me_ver.JPG*202,21
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/171,74/Mad_M_Granny Smith_171,74_Pgb_int_ce_sup.JPG*171,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/152.82/Rio_M_Golden_152,82_Spm_ext_ce_sup.jpg*152,82
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Ppb_ext_ce_sup.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/173,76/Mad_M_Granny Smith_173,76_Spb_ext_me_ver.JPG*173,76
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Spm_int_me_ver.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Golden/246.49/Rio_M_Golden_246,49_Ppb_ext_al_ver.jpg*246,49
+/home/jovyan/data/nextcloud/MANZANA/Fuji/145.59/Rio_M_Fuji_145,59_Pgb_ext_me_sup.JPG*145,59
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.58/Rio_M_Golden_242,58_Spb_int_ce_cen.jpg*242,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/202.21/Rio_M_Fuji_202,21_Spb_ext_me_ver.JPG*202,21
+/home/jovyan/data/nextcloud/MANZANA/Fuji/205.23/Rio_M_Fuji_205,23_Ppb_int_me_ver.JPG*205,23
+/home/jovyan/data/nextcloud/MANZANA/Fuji/290.25/Rio_M_Fuji_290,25_Ppb_ext_me_sup.JPG*290,25
+/home/jovyan/data/nextcloud/MANZANA/Fuji/143.54/Rio_M_Fuji_143,54_Spm_int_al_sup.JPG*143,54
+/home/jovyan/data/nextcloud/MANZANA/Golden/243.25/Rio_M_Golden_243,25_Spm_int_al_ver.jpg*243,25
+/home/jovyan/data/nextcloud/MANZANA/Fuji/290.25/Rio_M_Fuji_290,25_Pgb_int_al_sup.JPG*290,25
+/home/jovyan/data/nextcloud/MANZANA/Fuji/199.97/Rio_M_Fuji_199,97_Spm_int_ce_ver.JPG*199,97
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.74/Rio_M_Golden_143,74_Spb_int_me_cen.jpg*143,74
+/home/jovyan/data/nextcloud/MANZANA/Golden/147.55/Rio_M_Golden_147,55_Pgb_ext_ce_ver.jpg*147,55
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/246,38/Mad_M_Granny Smith_246,38_Spm_int_me_sup.JPG*246,38
+/home/jovyan/data/nextcloud/MANZANA/Fuji/210.58/Rio_M_Fuji_210.58_Spb_int_me_sup.JPG*210.58
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Spb_int_me_ver.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/236,92/Mad_M_Granny Smith_236,92_Spb_ext_al_cen.JPG*236,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/206.85/Rio_M_Fuji_206,85_Spm_int_ce_cen.JPG*206,85
+/home/jovyan/data/nextcloud/MANZANA/Golden/247.65/Rio_M_Golden_247,65_Pgb_int_me_sup.jpg*247,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Spm_ext_ce_cen.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/191,4/Mad_M_Granny Smith_191,4_Ppb_int_al_sup.JPG*191,4
+/home/jovyan/data/nextcloud/MANZANA/Golden/191,83/Rio_M_Golden_191,83_Spm_int_ce_sup.jpg*191,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.58/Rio_M_Golden_242,58_Spm_ext_me_sup.jpg*242,58
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Spb_ext_al_sup.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Spb_int_al_sup.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Fuji/210.58/Rio_M_Fuji_210,58_Spm_int_me_cen.JPG*210,58
+/home/jovyan/data/nextcloud/MANZANA/Fuji/201.13/Rio_M_Fuji_201,13_Ppb_ext_al_sup.JPG*201,13
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Spb_ext_al_sup.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Fuji/287.19/Rio_M_Fuji_287,19_Ppb_int_ce_ver.JPG*287,19
+/home/jovyan/data/nextcloud/MANZANA/Fuji/152.73/Rio_M_Fuji_152,73_Ppb_int_me_cen.jpg*152,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/240.16/Rio_M_Golden_240,16_Spm_int_me_ver.jpg*240,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/137.12/Rio_M_Golden_137,12_Pgb_int_me_cen.jpg*137,12
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/229,43/Mad_M_Granny Smith_229,43_Spb_ext_me_cen.JPG*229,43
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Spb_ext_me_ver.JPG*129,84
+/home/jovyan/data/nextcloud/MANZANA/Fuji/196.38/Rio_M_Fuji_196,38_Spb_int_me_ver.JPG*196,38
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.40/Rio_M_Golden_186,4_Spb_int_ce_sup.jpg*186,4
+/home/jovyan/data/nextcloud/MANZANA/Fuji/134.15/Rio_M_Fuji_134,15_Pgb_int_al_sup.JPG*134,15
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Spm_int_me_cen.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.76/Rio_M_Fuji_211,76_Spm_ext_me_cen.JPG*211,76
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/232,83/Mad_M_Granny Smith_232,83_Pgb_int_al_sup.JPG*232,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/197,89/Rio_M_Golden_197,89_Ppb_ext_me_cen.jpg*197,89
+/home/jovyan/data/nextcloud/MANZANA/Golden/247.65/Rio_M_Golden_247,65_Pgb_int_al_cen.jpg*247,65
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Pgb_int_ce_ver.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Ppb_int_al_cen.jpg*109,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.42/Rio_M_Golden_251,42_Spb_ext_ce_sup.jpg*251,42
+/home/jovyan/data/nextcloud/MANZANA/Fuji/211.87/Rio_M_Fuji_211,87_Pgb_int_ce_sup.JPG*211,87
+/home/jovyan/data/nextcloud/MANZANA/Golden/142.75/Rio_M_Golden_142,75_Pgb_ext_al_ver.jpg*142,75
+/home/jovyan/data/nextcloud/MANZANA/Fuji/204.75/Rio_M_Fuji_204,75_Pgb_int_al_ver.JPG*204,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Spb_ext_al_cen.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/138.45/Rio_M_Golden_138,45_Spb_ext_me_sup.jpg*138,45
+/home/jovyan/data/nextcloud/MANZANA/Fuji/307.11/Rio_M_Fuji_307,11_Ppb_int_me_cen.JPG*307,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.92/Rio_M_Golden_134,92_Ppb_ext_ce_sup.jpg*134,92
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Pgb_int_me_cen.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Fuji/286.43/Rio_M_Fuji_286,43_Pgb_int_al_sup.JPG*286,43
+/home/jovyan/data/nextcloud/MANZANA/Golden/151.61/Rio_M_Golden_151,61_Pgb_ext_al_ver.jpg*151,61
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Ppb_ext_me_ver.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/134.15/Rio_M_Fuji_134,15_Ppb_ext_al_sup.JPG*134,15
+/home/jovyan/data/nextcloud/MANZANA/Fuji/197.79/Rio_M_Fuji_197,79_Spb_ext_ce_sup.JPG*197,79
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Spb_int_ce_sup.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Fuji/108.63/Rio_M_Fuji_108,63_Pgb_int_ce_ver.JPG*108,63
+/home/jovyan/data/nextcloud/MANZANA/Golden/108.37/Rio_M_Golden_108,37_Ppb_ext_ce_cen.jpg*108,37
+/home/jovyan/data/nextcloud/MANZANA/Fuji/150.25/Rio_M_Fuji_150,25_Pgb_ext_me_sup.JPG*150,25
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.99/Rio_M_Fuji_141,99_Spb_int_ce_ver.JPG*141,99
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/240,23/Mad_M_Granny Smith_202,84_Ppb_ext_al_cen.JPG*202,84
+/home/jovyan/data/nextcloud/MANZANA/Fuji/199.97/Rio_M_Fuji_199,97_Ppb_ext_me_ver.JPG*199,97
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Pgb_int_al_sup.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/185,75/Mad_M_Granny Smith_185,75_Spm_int_al_ver.JPG*185,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Spm_ext_me_sup.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/146.02/Rio_M_Golden_146,02_Spb_int_ce_cen.jpg*146,02
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Ppb_int_me_cen.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/152.73/Rio_M_Fuji_152,73_Spm_ext_al_sup.JPG*152,73
+/home/jovyan/data/nextcloud/MANZANA/Golden/191,83/Rio_M_Golden_191,83_Spm_int_ce_ver.jpg*191,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.58/Rio_M_Golden_242,58_Spm_int_ce_sup.jpg*242,58
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/154,97/Mad_M_Granny Smith_154,97_Spb_int_ce_ver.JPG*154,97
+/home/jovyan/data/nextcloud/MANZANA/Golden/180.51/Rio_M_Golden_180,51_Spm_int_ce_cen.jpg*180,51
+/home/jovyan/data/nextcloud/MANZANA/Fuji/206.85/Rio_M_Fuji_206,85_Pgb_int_ce_sup.JPG*206,85
+/home/jovyan/data/nextcloud/MANZANA/Golden/143.79/Rio_M_Golden_143,79_Ppb_ext_ce_cen.jpg*143,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/134.09/Rio_M_Golden_134,09_Ppb_int_me_cen.jpg*134,09
+/home/jovyan/data/nextcloud/MANZANA/Golden/186.88/Rio_M_Golden_186,88_Spb_ext_al_sup.jpg*186,88
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.14/Rio_M_Fuji_265,14_Spb_ext_ce_ver.JPG*265,14
+/home/jovyan/data/nextcloud/MANZANA/Golden/257.82/Rio_M_Golden_257,82_Pgb_ext_al_cen.jpg*257,82
+/home/jovyan/data/nextcloud/MANZANA/Golden/250.75/Rio_M_Golden_250,75_Pgb_int_me_sup.jpg*250,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/135.65/Rio_M_Golden_135,65_Spb_int_al_ver.jpg*135,65
+/home/jovyan/data/nextcloud/MANZANA/Golden/247.14/Rio_M_Golden_247,14_Spb_int_al_cen.jpg*247,14
+/home/jovyan/data/nextcloud/MANZANA/Fuji/150.25/Rio_M_Fuji_150,25_Spm_ext_me_cen.JPG*150,25
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Ppb_int_me_ver.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Golden/191,83/Rio_M_Golden_191,83_Spb_int_ce_sup.jpg*191,83
+/home/jovyan/data/nextcloud/MANZANA/Golden/251.16/Rio_M_Golden_251,16_Spb_ext_ce_cen.jpg*251,16
+/home/jovyan/data/nextcloud/MANZANA/Golden/242.08/Rio_M_Golden_242,08_Spm_int_ce_sup.jpg*242,08
+/home/jovyan/data/nextcloud/MANZANA/Golden/240.16/Rio_M_Golden_240,16_Pgb_ext_me_sup.jpg*240,16
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Pgb_int_ce_cen.JPG*129,84
+/home/jovyan/data/nextcloud/MANZANA/Golden/182.17/Rio_M_Golden_182,17_Spm_int_ce_cen.jpg*182,17
+/home/jovyan/data/nextcloud/MANZANA/Fuji/141.99/Rio_M_Fuji_141,99_Pgb_int_me_ver.JPG*141,99
+/home/jovyan/data/nextcloud/MANZANA/Fuji/306.67/Rio_M_Fuji_306,67_Spb_int_ce_cen.jpg*306,67
+/home/jovyan/data/nextcloud/MANZANA/Fuji/197.79/Rio_M_Fuji_197,79_Pgb_int_al_ver.JPG*197,79
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Ppb_ext_al_cen.jpg*245,96
+/home/jovyan/data/nextcloud/MANZANA/Golden/259.08/Rio_M_Golden_259,08_Pgb_ext_ce_sup.jpg*259,08
+/home/jovyan/data/nextcloud/MANZANA/Fuji/129.84/Rio_M_Fuji_129,84_Ppb_ext_ce_sup.JPG*129,84
+/home/jovyan/data/nextcloud/MANZANA/Golden/207,98/Rio_M_Golden_207,98_Ppb_ext_ce_sup.jpg*207,98
+/home/jovyan/data/nextcloud/MANZANA/Golden/193,12/Rio_M_Golden_193,12_Pgb_ext_al_sup.jpg*193,12
+/home/jovyan/data/nextcloud/MANZANA/Golden/253.73/Rio_M_Golden_253,73_Spb_int_me_sup.jpg*253,73
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/174,65/Mad_M_Granny Smith_174,65_Ppb_ext_me_ver.JPG*174,65
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/230,55/Mad_M_Granny Smith_230,55_Spm_ext_al_sup.JPG*230,55
+/home/jovyan/data/nextcloud/MANZANA/Fuji/150.25/Rio_M_Fuji_150,25_Pgb_int_ce_cen.JPG*150,25
+/home/jovyan/data/nextcloud/MANZANA/Fuji/142.70/Rio_M_Fuji_142,70_Spm_int_me_cen.JPG*142,70
+/home/jovyan/data/nextcloud/MANZANA/Fuji/131.07/Rio_M_Fuji_131,07_Pgb_int_al_sup.JPG*131,07
+/home/jovyan/data/nextcloud/MANZANA/Fuji/109.11/Rio_M_Fuji_109,11_Spm_ext_ce_ver.JPG*109,11
+/home/jovyan/data/nextcloud/MANZANA/Golden/185.73/Rio_M_Golden_185,73_Spb_ext_al_cen.jpg*185,73
+/home/jovyan/data/nextcloud/MANZANA/Fuji/202.21/Rio_M_Fuji_202,21_Pgb_int_me_cen.JPG*202,21
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/240,23/Mad_M_Granny Smith_240,23_Spm_int_me_ver.JPG*240,23
+/home/jovyan/data/nextcloud/MANZANA/Golden/240.16/Rio_M_Golden_240,16_Pgb_int_al_cen.jpg*240,16
+/home/jovyan/data/nextcloud/MANZANA/Fuji/265.43/Rio_M_Fuji_265,43_Ppb_int_me_ver.JPG*265,43
+/home/jovyan/data/nextcloud/MANZANA/Fuji/285.75/Rio_M_Fuji_285,75_Pgb_ext_me_cen.JPG*285,75
+/home/jovyan/data/nextcloud/MANZANA/Golden/127.10/Rio_M_Golden_127,1_Spm_int_me_sup.jpg*127,1
+/home/jovyan/data/nextcloud/MANZANA/Fuji/135.44/Rio_M_Fuji_135,44_Spm_ext_al_ver.JPG*135,44
+/home/jovyan/data/nextcloud/MANZANA/Fuji/253.17/Rio_M_Fuji_253,17_Ppb_ext_me_ver.JPG*253,17
+/home/jovyan/data/nextcloud/MANZANA/Golden/179.79/Rio_M_Golden_179,79_Pgb_ext_ce_cen.jpg*179,79
+/home/jovyan/data/nextcloud/MANZANA/Granny Smith/178,97/Mad_M_Granny Smith_178,97_Pgb_ext_al_cen.JPG*178,97
+/home/jovyan/data/nextcloud/MANZANA/Golden/237.44/Rio_M_Golden_237,44_Pgb_ext_al_cen.jpg*237,44
+/home/jovyan/data/nextcloud/MANZANA/Golden/188.92/Rio_M_Golden_188,92_Ppb_int_me_sup.jpg*188,92
+/home/jovyan/data/nextcloud/MANZANA/Fuji/268.98/Rio_M_Fuji_268,98_Ppb_int_me_ver.JPG*268,98
+/home/jovyan/data/nextcloud/MANZANA/Golden/177.87/Rio_M_Golden_177,87_Spb_ext_me_sup.jpg*177,87
+/home/jovyan/data/nextcloud/MANZANA/Fuji/290.25/Rio_M_Fuji_290,25_Ppb_ext_al_sup.JPG*290,25
+/home/jovyan/data/nextcloud/MANZANA/Golden/245.96/Rio_M_Golden_245,96_Spm_int_me_cen.jpg*245,96
